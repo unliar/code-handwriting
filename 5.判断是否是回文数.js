@@ -1,3 +1,4 @@
+// 首尾收缩遍历
 const isPalindrome = (x) => {
   const str = `${x}`;
   const len = str.length - 1;

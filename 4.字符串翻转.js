@@ -1,3 +1,4 @@
+// 使用快慢指针 交换首尾就能实现
 const reverse = (s) => {
   let start = 0;
   let end = s.length - 1;
