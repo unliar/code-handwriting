@@ -2,7 +2,7 @@
 // 获取数组中最大的值索引
 
 const GetMaxIndex = (nums) => {
-  let targetIndex = 0;
+  let targetIndex;
   nums.forEach((item, index) => {
     if (typeof targetIndex == "number") {
       // 如果当前值大于
@@ -16,7 +16,7 @@ const GetMaxIndex = (nums) => {
   return targetIndex;
 };
 
-const findKthLargest = (nums, k) => {
+const FindKthLargest = (nums, k) => {
   const ns = [...nums];
   const set = [];
   while (set.length < k) {
@@ -31,4 +31,4 @@ const findKthLargest = (nums, k) => {
   return set[k - 1];
 };
 
-console.log(findKthLargest([1, 2, 3, 4, 4, 4, 5], 2));
+console.log(FindKthLargest([1, 2, 3, 4, 4, 4, 5], 2));
