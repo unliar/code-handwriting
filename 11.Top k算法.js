@@ -1,6 +1,8 @@
-// 思路
-// 获取数组中最大的值索引
-
+/**
+ * 获取最大值索引
+ * @param {*} nums
+ * @returns {number}
+ */
 const GetMaxIndex = (nums) => {
   let targetIndex;
   nums.forEach((item, index) => {
