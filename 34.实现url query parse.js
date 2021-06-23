@@ -5,3 +5,8 @@ const ParseQuery = (str) => {
   });
   return obj;
 };
+
+const ParseURL = (url) => {
+  const dom = document.createElement("a");
+  dom.href = url;
+};
