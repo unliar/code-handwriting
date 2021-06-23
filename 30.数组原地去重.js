@@ -5,6 +5,7 @@
 var removeDuplicates = function (nums) {
   if (nums.length == 0) return nums;
   let back = 0;
+  // 从第二个元素开始遍历
   for (let index = 1; index < nums.length; index++) {
     if (nums[back] !== nums[index]) {
       back++;
