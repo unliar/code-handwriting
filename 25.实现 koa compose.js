@@ -10,6 +10,9 @@ const compose = (middlewares) => {
     let index = -1;
     return dispatch(0);
     function dispatch(i) {
+      if (i <= index) {
+        return Promise.reject(new Error("next调用多次"));
+      }
       index = i;
       let fn = middlewares[i];
       if (i == middlewares.length) {
