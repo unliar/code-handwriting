@@ -2,9 +2,15 @@ const popSort = (arr) => {
   // 一层遍历
   for (let index = 0; index < arr.length; index++) {
     for (let index2 = 0; index2 < arr.length - 1 - index; index2++) {
+      // 这是优化项
+      let flag = false;
       // 如果前面的值大于后面的值 交换到后面
       if (arr[index2] > arr[index2 + 1]) {
         [arr[index2], arr[index2 + 1]] = [arr[index2 + 1], arr[index2]];
+        flag = true;
+      }
+      if (flag) {
+        break;
       }
     }
   }
@@ -12,7 +18,7 @@ const popSort = (arr) => {
 };
 
 /**
- *
+ * 原理就是通过选取一个中间值 大于中间值 push 进右边数组 小于 左边
  * @param {any[]} arr
  */
 const quickSort = (arr) => {
