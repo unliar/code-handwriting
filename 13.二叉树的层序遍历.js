@@ -20,3 +20,21 @@ const LevelTravel = (root) => {
   }
   return res;
 };
+
+const LevelTravel2 = (node) => {
+  const res = [];
+  let level = 0;
+  const queue = [node];
+  while (queue.length) {
+    res[level] = [];
+    let len = queue.length;
+    while (len--) {
+      const n = queue.shift();
+      res[level].push(n.val);
+      n.left && queue.push(n.left);
+      n.right && queue.push(n.val);
+    }
+    level++;
+  }
+  return res;
+};
