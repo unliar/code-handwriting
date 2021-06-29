@@ -1,17 +1,20 @@
 const popSort = (arr) => {
+  const len = arr.length;
+
   // 一层遍历
-  for (let index = 0; index < arr.length; index++) {
-    for (let index2 = 0; index2 < arr.length - 1 - index; index2++) {
-      // 这是优化项
-      let flag = false;
+  for (let index = 0; index < len; index++) {
+    let flag = true; // 优化项
+
+    for (let index2 = 0; index2 < len - 1 - index; index2++) {
       // 如果前面的值大于后面的值 交换到后面
       if (arr[index2] > arr[index2 + 1]) {
         [arr[index2], arr[index2 + 1]] = [arr[index2 + 1], arr[index2]];
-        flag = true;
+        flag = false;
       }
-      if (flag) {
-        break;
-      }
+    }
+
+    if (flag) {
+      break;
     }
   }
   return arr;
