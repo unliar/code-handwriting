@@ -11,7 +11,7 @@ const RandomPick = (n, m) => {
     if (i < m) {
       res.push(i);
     } else {
-      const random = ~~(Math.random() * (0, i));
+      const random = ~~(Math.random() * i);
       if (random < m) {
         res[random] = i;
       }
