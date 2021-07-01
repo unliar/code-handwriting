@@ -3,7 +3,7 @@ class LM {
     this.name = name;
     this.q = [];
     this.timer = null;
-    this.hi();
+    this._hi();
   }
   exec() {
     clearTimeout(this.timer);
@@ -28,7 +28,7 @@ class LM {
     });
     return this.exec();
   }
-  hi() {
+  _hi() {
     this.q.push(() => {
       console.log("hi", this.name);
     });
