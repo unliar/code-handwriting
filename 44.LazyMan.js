@@ -1,3 +1,7 @@
+/**
+ * 这个的核心原理就是使用队列存储要执行的任务
+ * 每次有新的 action 时,存储并且消费点执行队列的所有任务函数。
+ */
 class LM {
   constructor(name) {
     this.name = name;
