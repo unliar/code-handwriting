@@ -4,11 +4,11 @@ const reverse = (s) => {
   let end = s.length - 1;
   // 快慢指针
   while (start < end) {
-    const tem = s[start];
-    s[start] = s[end];
-    s[end] = tem;
+    [s[start], s[end]] = [s[end], s[start]];
     start++;
     end--;
   }
   return s;
 };
+
+console.log(reverse([1, 2, 3, 4]));
