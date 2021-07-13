@@ -9,3 +9,17 @@ const reverseLinked = (head) => {
   }
   return pre;
 };
+
+var reverseList = function (head) {
+  if (!head || !head.next) return head;
+
+  const next = head.next;
+
+  const r = reverseList(next);
+
+  head.next = null;
+
+  next.next = head;
+
+  return r;
+};
