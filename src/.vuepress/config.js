@@ -30,19 +30,17 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: "",
+    repo: "https://github.com/unliar/code-handwriting",
     editLinks: false,
     docsDir: "",
     editLinkText: "",
     lastUpdated: true,
+    displayAllHeaders: true,
+    smoothScroll: true,
     nav: [
       {
-        text: "目录",
+        text: "算法",
         link: "/leetcode/",
-      },
-      {
-        text: "Github",
-        link: "https://github.com/unliar/code-handwriting",
       },
     ],
     sidebar: "auto",

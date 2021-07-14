@@ -1,9 +1,9 @@
 ---
 home: true
 lang: zh-CN
-heroText: 平平无奇的一个手写代码文档库
+heroText: 算法复健指南
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline:
+tagline: 脑子不用会坏掉的哦
 actionText: 立刻开始 →
 actionLink: /leetcode/
 features:

@@ -1,0 +1,54 @@
+name: site
+
+on: 
+  push:
+     branches:
+      - master
+  # workflow_run:
+  #   workflows: ["build-deploy"] 
+  #   types:
+  #     - completed
+jobs:
+  
+  publish:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: ["14"]
+    name: gh-pages-publish
+    steps:
+      - uses: actions/checkout@v2
+      - uses: FranzDiebold/github-env-vars-action@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node }}
+      - name: build
+        env:
+          BASE_URL: "https://${{env.CI_REPOSITORY_OWNER}}.github.io/${{env.CI_REPOSITORY_NAME}}/"
+        run: |
+          npm install
+          npm run build
+      - uses: peaceiris/actions-gh-pages@v3
+        name: GitHub Pages Deploy
+        with:
+          publish_dir: "src/.vuepress/dist/"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: wechat-work-bot-success
+        uses: chf007/action-wechat-work@master
+        env:
+          WECHAT_WORK_BOT_WEBHOOK: ${{secrets.WECHAT_WORK_BOT_WEBHOOK}}
+        with:
+          msgtype: markdown
+          content: "#### ✅ [${{github.repository}}](https://github.com/${{env.CI_REPOSITORY}})  gh-page 发布成功 \n
+          > 地址: [在线访问 👍](https://${{env.CI_REPOSITORY_OWNER}}.github.io/${{env.CI_REPOSITORY_NAME}}/)
+          "
+      - name: wechat-work-bot-failed-build
+        if: ${{ failure() }}
+        uses: chf007/action-wechat-work@master
+        env:
+          WECHAT_WORK_BOT_WEBHOOK: ${{secrets.WECHAT_WORK_BOT_WEBHOOK}}
+        with:
+          msgtype: markdown
+          content: "#### ❌ [${{github.repository}}](https://github.com/${{env.CI_REPOSITORY}})  gh-page 发布失败 \n
+          > 地址: [在线访问 😅](https://${{env.CI_REPOSITORY_OWNER}}.github.io/${{env.CI_REPOSITORY_NAME}}/)
+          " 
