@@ -288,3 +288,15 @@
 #### 题解
 
 <<< @/src/code/binary-tree/剑指 Offer 27. 二叉树的镜像.js
+
+## 剑指 Offer 28. 对称的二叉树
+
+#### 描述
+
+> [leetcode](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)
+
+请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。
+
+#### 题解
+
+<<< @/src/code/binary-tree/剑指 Offer 28. 对称的二叉树.js
