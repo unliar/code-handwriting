@@ -1,0 +1,20 @@
+{
+  "name": "js-handwriting",
+  "version": "0.0.1",
+  "description": "可能是见过的最入门的手写算法题解",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "https://github.com/unliar/code-handwriting",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "nav": "vuepress nav src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
