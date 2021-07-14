@@ -300,3 +300,173 @@
 #### 题解
 
 <<< @/src/code/binary-tree/剑指 Offer 28. 对称的二叉树.js
+
+## 剑指 Offer 29. 顺时针打印矩阵
+
+#### 描述
+
+输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字。
+
+示例 1：
+
+```
+输入：matrix = [[1,2,3],[4,5,6],[7,8,9]]
+输出：[1,2,3,6,9,8,7,4,5]
+```
+
+示例 2：
+
+```
+输入：matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+输出：[1,2,3,4,8,12,11,10,9,5,6,7]
+```
+
+来源：力扣（LeetCode）
+[链接](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof)
+
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
+#### 题解
+
+<<< @/src/code/array/剑指 Offer 29. 顺时针打印矩阵.js
+
+## 剑指 Offer 38. 字符串的排列
+
+#### 描述
+
+> [leetcode](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
+
+输入一个字符串，打印出该字符串中字符的所有排列。
+
+你可以以任意顺序返回这个字符串数组，但里面不能有重复元素。
+
+#### 题解
+
+<<< @/src/code/string/剑指 Offer 38. 字符串的排列.js
+
+## 剑指 Offer 39. 数组中出现次数超过一半的数字
+
+#### 描述
+
+数组中有一个数字出现的次数超过数组长度的一半，请找出这个数字。
+
+你可以假设数组是非空的，并且给定的数组总是存在多数元素。
+
+#### 题解
+
+<<< @/src/code/array/剑指 Offer 39. 数组中出现次数超过一半的数字.js
+
+## 剑指 Offer 40. 最小的 k 个数
+
+#### 描述
+
+> [leetcode](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
+
+输入整数数组 arr ，找出其中最小的 k 个数。例如，输入 4、5、1、6、2、7、3、8 这 8 个数字，则最小的 4 个数字是 1、2、3、4。
+
+#### 题解
+
+<<< @/src/code/array/剑指 Offer 40. 最小的 k 个数.js
+
+## 剑指 Offer 42. 连续子数组的最大和
+
+#### 描述
+
+输入一个整型数组，数组中的一个或连续多个整数组成一个子数组。求所有子数组的和的最大值。
+
+要求时间复杂度为 O(n)。
+
+#### 题解
+
+<<< @/src/code/array/剑指 Offer 42. 连续子数组的最大和.js
+
+## 剑指 Offer 45. 把数组排成最小的数
+
+#### 描述
+
+> [leetcode](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
+
+输入一个非负整数数组，把数组里所有数字拼接起来排成一个数，打印能拼接出的所有数字中最小的一个。
+
+#### 题解
+
+<<< @/src/code/array/剑指 Offer 45. 把数组排成最小的数.js
+
+## 剑指 Offer 48. 最长不含重复字符的子字符串
+
+#### 描述
+
+> [leetcode](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
+
+请从字符串中找出一个最长的不包含重复字符的子字符串，计算该最长子字符串的长度。
+
+#### 题解
+
+<<< @/src/code/string/剑指 Offer 48. 最长不含重复字符的子字符串.js
+
+## 剑指 Offer 49. 丑数
+
+#### 描述
+
+我们把只包含质因子 2、3 和 5 的数称作丑数（Ugly Number）。求按从小到大的顺序的第 n 个丑数。
+
+示例:
+
+输入: n = 10
+输出: 12
+解释: 1, 2, 3, 4, 5, 6, 8, 9, 10, 12 是前 10 个丑数。
+
+来源：力扣（LeetCode）
+[链接](https://leetcode-cn.com/problems/chou-shu-lcof)
+
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
+#### 题解
+
+<<< @/src/code/number/剑指 Offer 49. 丑数.js
+
+## 剑指 Offer 50. 第一个只出现一次的字符
+
+#### 描述
+
+> [leetcode](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
+
+在字符串 s 中找出第一个只出现一次的字符。如果没有，返回一个单空格。 s 只包含小写字母。
+
+#### 题解
+
+<<< @/src/code/string/剑指 Offer 50. 第一个只出现一次的字符.js
+
+## 剑指 Offer 54. 二叉搜索树的第 k 大节点
+
+#### 描述
+
+> [剑指 Offer 54. 二叉搜索树的第 k 大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)
+
+给定一棵二叉搜索树，请找出其中第 k 大的节点。
+
+#### 题解
+
+<<< @/src/code/binary-tree/剑指 Offer 54. 二叉搜索树的第 k 大节点.js
+
+## 剑指 Offer 63. 股票的最大利润
+
+####
+
+<<< @/src/code/array/剑指 Offer 63. 股票的最大利润.js
+
+## 剑指 Offer 64. 求 1+2+…+n
+
+#### 题解
+
+<<< @/src/code/number/剑指 Offer 64. 求 1+2+…+n.js
+
+## 剑指 Offer 10- I. 斐波那契数列
+
+#### 描述
+
+> 和跳台阶问题一样
+
+#### 题解
+
+<<< @/src/code/number/剑指 Offer 10- I. 斐波那契数列.js
