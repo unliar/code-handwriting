@@ -34,7 +34,6 @@ module.exports = {
     editLinks: false,
     editLinkText: "",
     lastUpdated: "最近更新",
-    displayAllHeaders: true,
     smoothScroll: true,
     nav: [
       {
@@ -43,6 +42,7 @@ module.exports = {
       },
     ],
     sidebar: "auto",
+    sidebarDepth: 1,
   },
 
   /**
@@ -52,8 +52,5 @@ module.exports = {
   base: "/code-handwriting/",
   markdown: {
     lineNumbers: true,
-    toc: {
-      includeLevel: [1, 2, 3, 4],
-    },
   },
 };
