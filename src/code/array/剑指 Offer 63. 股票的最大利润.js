@@ -20,3 +20,18 @@ var maxProfit = function(prices) {
   }
   return profit;
 };
+
+/**
+ * @param {number[]} prices
+ * @return {number}
+ * @description 获取股票交易多次买入卖出收益
+ * @link https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock
+ */
+function maxProfit2(prices) {
+  let total = 0;
+  for (let index = 0; index < prices.length - 1; index++) {
+    const profit = prices[index + 1] - prices[index];
+    total += Math.max(0, profit);
+  }
+  return total;
+}
