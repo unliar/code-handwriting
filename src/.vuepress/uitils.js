@@ -4,12 +4,12 @@ const GetNaviBarMd = () => {
   );
   let str = "";
 
-  domList.forEach((d) => {
+  domList.forEach((d, index) => {
     const title = d.innerHTML;
     const href = d
       .getAttribute("href")
       .replace("/code-handwriting/leetcode", ".");
-    str = str + "\n\n" + `[${title}](${href})`;
+    str = str + "\n\n" + `### ${index + 1}. [${title}](${href})`;
   });
   console.log(str);
 };
