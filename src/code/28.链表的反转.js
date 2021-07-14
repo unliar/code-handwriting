@@ -10,12 +10,12 @@ const reverseLinked = (head) => {
   return pre;
 };
 
-const reverseList1 = function (head) {
+const reverseList1 = function(head) {
   if (!head || !head.next) return head;
 
   const next = head.next;
 
-  const r = reverseList(next);
+  const r = reverseList1(next);
 
   head.next = null;
 
@@ -24,7 +24,7 @@ const reverseList1 = function (head) {
   return r;
 };
 
-const reverseList2 = function (head) {
+const reverseList2 = function(head) {
   return reverse(null, head);
 };
 
