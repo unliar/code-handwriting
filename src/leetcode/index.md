@@ -38,11 +38,11 @@ sidebar: auto
 
 ## [链表](./LinkedList)
 
-1. [检测链表是否有环](./LinkedList/#_1-检测链表是否有环)
+[1. 检测链表是否有环](./LinkedList/#_1-检测链表是否有环)
 
-2. [链表的反转](./LinkedList/#_2-链表的反转)
+[2. 链表的反转](./LinkedList/#_2-链表的反转)
 
-3. [链表旋转 k 次](./LinkedList/#_3-链表旋转-k-次)
+[3. 链表旋转 k 次](./LinkedList/#_3-链表旋转-k-次)
 
 ## [字符串](./String)
 
