@@ -1,6 +1,11 @@
 const fs = require("fs");
 const path = require("path");
-const GetAllFileName = (dir = "./", title = "数组") => {
+/**
+ * 把指定目录下的代码文件输出成markdown
+ * @param {string} dir 文件夹
+ * @param {string} title 标题
+ */
+const MakeDirMarkdown = (dir = "./", title = "数组") => {
   const p = path.join(__dirname, "src/code/", dir);
   console.log("资源目录:" + p + "\n");
 
@@ -12,21 +17,21 @@ const GetAllFileName = (dir = "./", title = "数组") => {
     const src = `<<< @/src/code/${dir}/${name}`;
     md = md + "\n\n" + desc + "\n\n" + src;
   });
-  console.log("资源生成:" + p + "\n");
 
+  console.log("资源生成:" + p + "\n");
   const targetDir = path.join(__dirname, "src/leetcode/", dir);
   fs.mkdirSync(targetDir, { recursive: true });
   console.log("资源路径:" + targetDir + "\n");
-
   fs.writeFileSync(`${targetDir}/index.md`, md);
+  console.log("生成完毕:" + title + "--->" + dir + "\n");
 };
 
-GetAllFileName("array", "数组");
+MakeDirMarkdown("array", "数组");
 
-GetAllFileName("binary-tree", "二叉树");
+MakeDirMarkdown("binary-tree", "二叉树");
 
-GetAllFileName("number", "数字");
+MakeDirMarkdown("number", "数字");
 
-GetAllFileName("string", "字符串");
+MakeDirMarkdown("string", "字符串");
 
-GetAllFileName("linked-list", "链表");
+MakeDirMarkdown("linked-list", "链表");
