@@ -39,7 +39,7 @@ module.exports = {
     smoothScroll: true,
     nav: [
       {
-        text: "算法",
+        text: "目录",
         link: "/leetcode/",
       },
     ],
