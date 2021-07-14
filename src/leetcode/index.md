@@ -2,13 +2,15 @@
 sidebar: auto
 ---
 
-# 索引大纲
+# 目录
 
 ## [数组](./Array)
 
-1. [有序数组是否是子序列](./Array#1)
+1. [有序数组是否是子序列](./Array)
 
 2. [数组的原地翻转]()
+
+## [二叉树](./BinaryTree)
 
 ## [链表](./LinkedList)
 
@@ -22,4 +24,6 @@ sidebar: auto
 
 ## [JavaScript 八股题](./JavaScript)
 
-1. [LRU](./JavaScript/#1-lru)
+1. [LRU](./JavaScript/#_1-lru)
+
+2. [防抖节流](./JavaScript/#_2-防抖节流)

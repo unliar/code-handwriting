@@ -32,9 +32,8 @@ module.exports = {
   themeConfig: {
     repo: "https://github.com/unliar/code-handwriting",
     editLinks: false,
-    docsDir: "",
     editLinkText: "",
-    lastUpdated: true,
+    lastUpdated: "最近更新",
     displayAllHeaders: true,
     smoothScroll: true,
     nav: [
@@ -51,4 +50,10 @@ module.exports = {
    */
   plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
   base: "/code-handwriting/",
+  markdown: {
+    lineNumbers: true,
+    toc: {
+      includeLevel: [1, 2, 3, 4],
+    },
+  },
 };

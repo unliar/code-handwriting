@@ -8,10 +8,10 @@ actionText: 立刻开始 →
 actionLink: /leetcode/
 features:
   - title: 思路清晰
-    details: 不追求最简洁,追求简单。
+    details: 追求简单移动。
   - title: 从零开始
     details: 无需算法基础
-  - title: 偶尔更新
-    details: 当作者还能喘气
+  - title: 持续更新
+    details: 只要还能喘气
 footer: Made by  with 远浅 ❤️
 ---
