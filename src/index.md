@@ -8,7 +8,7 @@ actionText: 立刻开始 →
 actionLink: /leetcode/
 features:
   - title: 思路清晰
-    details: 追求简单移动。
+    details: 追求简单易懂
   - title: 从零开始
     details: 无需算法基础
   - title: 持续更新
