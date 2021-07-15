@@ -1,6 +1,6 @@
 /**
  * 蓄水池抽样
- * 同概率的从 n 个数字中选出n个数字
+ * 同概率的从 n 个数字中选出m个数字
  * @param {number} n
  * @param {number} m
  */
