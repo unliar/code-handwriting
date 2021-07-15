@@ -10,7 +10,7 @@
   "repository": "https://github.com/unliar/code-handwriting",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "node ./bd.js && vuepress build src",
+    "build": "node ./bd.js && vuepress build src && vuepress build src",
     "nav": "vuepress nav src"
   },
   "license": "MIT",

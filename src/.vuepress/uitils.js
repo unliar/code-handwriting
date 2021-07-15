@@ -17,9 +17,9 @@ export const happy = () => {
 };
 
 export const GetMarkDownIndex = (meta) => {
-  const pages = meta.pages.filter(
-    (i) => i.path != "/" && i.path != "/leetcode/"
-  );
+  const pages = meta.pages
+    .filter((i) => i.path != "/" && i.path != "/leetcode/")
+    .sort((a, b) => a.title > b.title);
   let md = "# 目录";
   pages.forEach((item) => {
     const h1 = item.title;
