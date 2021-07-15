@@ -23,9 +23,10 @@ export const GetMarkDownIndex = (meta) => {
   let md = "# 目录";
   pages.forEach((item) => {
     const h1 = item.title;
-    md = md + "\n\n" + `## ${h1}`;
     // 基础目录
     const basePath = item.regularPath;
+    md = md + "\n\n" + `## [${h1}](${basePath})`;
+
     item.headers.forEach((t, index) => {
       const ind = `${index + 1}.`;
       const desc = t.title.replace(ind, "").trim();
