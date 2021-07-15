@@ -14,45 +14,7 @@ sidebar: auto
 
 ## [数字](./string)
 
-## 未分类
-
-## [JavaScript 八股题](./JavaScript)
-
-### 1. [LRU](./JavaScript/#_1-lru)
-
-### 2. [防抖节流](./JavaScript/#_2-防抖节流)
-
-### 3. [实现 koa-compose](./JavaScript/#_3-实现-koa-compose)
-
-### 4. [实现 promise 并发控制](./JavaScript/#_4-实现-promise-并发控制)
-
-### 5. [实现 url query parse.js](./JavaScript/#_5-实现-url-query-parse-js)
-
-### 6. [手写 Promise.all](./JavaScript/#_6-手写-promise-all)
-
-### 7. [手写 promise](./JavaScript/#_7-手写-promise)
-
-### 8. [实现 async await](./JavaScript/#_8-实现-async-await)
-
-### 9. [a==1&amp;&amp;a==2&amp;&amp;a==3](./JavaScript/#_9-a-1-a-2-a-3)
-
-### 10. [LazyMan](./JavaScript/#_10-lazyman)
-
-### 11. [数组对象深度遍历](./JavaScript/#_11-数组对象深度遍历)
-
-### 12. [关系数组转树结构](./JavaScript/#_12-关系数组转树结构)
-
-### 13. [ curry 化 add](./JavaScript/#_13-curry-化-add)
-
-### 14. [树组件的删除](./JavaScript/#_14-树组件的删除)
-
-### 15. [bind-call-apply](./JavaScript/#_15-bind-call-apply)
-
-### 16. [深拷贝](./JavaScript/#_16-深拷贝)
-
-### 17. [实现 New 和 Create](./JavaScript/#_17-实现-new-和-create)
-
-### 18. [实现 instanceOf](./JavaScript/#_18-实现-instanceof)
+## [JavaScript 八股题](./js)
 
 ## [剑指 Offer 系列](./Offer)
 
