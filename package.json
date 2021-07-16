@@ -12,11 +12,11 @@
     "dev": "vuepress dev src",
     "build": "node ./bd.js && vuepress build src && vuepress build src",
     "nav": "vuepress nav src",
-    "postinstall": "husky install"
+    "prepare": "husky install"
   },
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.5.3",
-    "husky": "^5.0.9"
+    "husky": "^7.0.0"
   }
 }
