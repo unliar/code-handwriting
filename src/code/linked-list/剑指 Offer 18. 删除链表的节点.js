@@ -11,7 +11,11 @@
  * @return {ListNode}
  */
 var deleteNode = function(head, val) {
-  if (head.val === val) return head.next;
-  head.next = deleteNode(head.next, val);
-  return head;
+  if (head == null) return null;
+  if (head.val == val) {
+    return deleteNode(head.next, val);
+  } else {
+    head.next = deleteNode(head.next, val);
+    return head;
+  }
 };
