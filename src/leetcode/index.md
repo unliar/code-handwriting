@@ -30,21 +30,23 @@
 
 ### 14. [剑指 Offer 45. 把数组排成最小的数](/leetcode/array/#_14-剑指-offer-45-把数组排成最小的数)
 
-### 15. [剑指 Offer 63. 股票的最大利润](/leetcode/array/#_15-剑指-offer-63-股票的最大利润)
+### 15. [剑指 Offer 53 - I. 在排序数组中查找数字 I](/leetcode/array/#_15-剑指-offer-53-i-在排序数组中查找数字-i)
 
-### 16. [字符串翻转](/leetcode/array/#_16-字符串翻转)
+### 16. [剑指 Offer 63. 股票的最大利润](/leetcode/array/#_16-剑指-offer-63-股票的最大利润)
 
-### 17. [常见排序算法](/leetcode/array/#_17-常见排序算法)
+### 17. [字符串翻转](/leetcode/array/#_17-字符串翻转)
 
-### 18. [数组原地去重](/leetcode/array/#_18-数组原地去重)
+### 18. [常见排序算法](/leetcode/array/#_18-常见排序算法)
 
-### 19. [数组拍平](/leetcode/array/#_19-数组拍平)
+### 19. [数组原地去重](/leetcode/array/#_19-数组原地去重)
 
-### 20. [数组数字奇数偶数排序](/leetcode/array/#_20-数组数字奇数偶数排序)
+### 20. [数组拍平](/leetcode/array/#_20-数组拍平)
 
-### 21. [旋转二维数组](/leetcode/array/#_21-旋转二维数组)
+### 21. [数组数字奇数偶数排序](/leetcode/array/#_21-数组数字奇数偶数排序)
 
-### 22. [有序数组是否是子序列](/leetcode/array/#_22-有序数组是否是子序列)
+### 22. [旋转二维数组](/leetcode/array/#_22-旋转二维数组)
+
+### 23. [有序数组是否是子序列](/leetcode/array/#_23-有序数组是否是子序列)
 
 ## [二叉树](/leetcode/binary-tree/)
 
@@ -188,13 +190,15 @@
 
 ### 24. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/Offer/#剑指-offer-50-第一个只出现一次的字符)
 
-### 25. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/Offer/#剑指-offer-54-二叉搜索树的第-k-大节点)
+### 25. [剑指 Offer 53 - I. 在排序数组中查找数字 I](/leetcode/Offer/#剑指-offer-53-i-在排序数组中查找数字-i)
 
-### 26. [剑指 Offer 63. 股票的最大利润](/leetcode/Offer/#剑指-offer-63-股票的最大利润)
+### 26. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/Offer/#剑指-offer-54-二叉搜索树的第-k-大节点)
 
-### 27. [剑指 Offer 64. 求 1+2+…+n](/leetcode/Offer/#剑指-offer-64-求-1-2-n)
+### 27. [剑指 Offer 63. 股票的最大利润](/leetcode/Offer/#剑指-offer-63-股票的最大利润)
 
-### 28. [剑指 Offer 10- I. 斐波那契数列](/leetcode/Offer/#剑指-offer-10-i-斐波那契数列)
+### 28. [剑指 Offer 64. 求 1+2+…+n](/leetcode/Offer/#剑指-offer-64-求-1-2-n)
+
+### 29. [剑指 Offer 10- I. 斐波那契数列](/leetcode/Offer/#剑指-offer-10-i-斐波那契数列)
 
 ## [字符串](/leetcode/string/)
 
