@@ -441,6 +441,8 @@
 
 #### 描述
 
+> [leetcode](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
+
 统计一个数字在排序数组中出现的次数。
 
 #### 题解
