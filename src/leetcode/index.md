@@ -104,17 +104,19 @@
 
 ## [链表](/leetcode/linked-list/)
 
-### 1. [判断是否是环形链表](/leetcode/linked-list/#_1-判断是否是环形链表)
+### 1. [删除排序链表中的重复元素](/leetcode/linked-list/#_1-删除排序链表中的重复元素)
 
-### 2. [剑指 Offer 06. 从尾到头打印链表](/leetcode/linked-list/#_2-剑指-offer-06-从尾到头打印链表)
+### 2. [判断是否是环形链表](/leetcode/linked-list/#_2-判断是否是环形链表)
 
-### 3. [剑指 Offer 18. 删除链表的节点](/leetcode/linked-list/#_3-剑指-offer-18-删除链表的节点)
+### 3. [剑指 Offer 06. 从尾到头打印链表](/leetcode/linked-list/#_3-剑指-offer-06-从尾到头打印链表)
 
-### 4. [剑指 Offer 22. 链表中倒数第 k 个节点](/leetcode/linked-list/#_4-剑指-offer-22-链表中倒数第-k-个节点)
+### 4. [剑指 Offer 18. 删除链表的节点](/leetcode/linked-list/#_4-剑指-offer-18-删除链表的节点)
 
-### 5. [剑指 Offer 24. 反转链表](/leetcode/linked-list/#_5-剑指-offer-24-反转链表)
+### 5. [剑指 Offer 22. 链表中倒数第 k 个节点](/leetcode/linked-list/#_5-剑指-offer-22-链表中倒数第-k-个节点)
 
-### 6. [链表旋转 k 次](/leetcode/linked-list/#_6-链表旋转-k-次)
+### 6. [剑指 Offer 24. 反转链表](/leetcode/linked-list/#_6-剑指-offer-24-反转链表)
+
+### 7. [链表旋转 k 次](/leetcode/linked-list/#_7-链表旋转-k-次)
 
 ## [数字](/leetcode/number/)
 
