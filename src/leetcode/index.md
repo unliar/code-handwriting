@@ -116,7 +116,9 @@
 
 ### 6. [剑指 Offer 24. 反转链表](/leetcode/linked-list/#_6-剑指-offer-24-反转链表)
 
-### 7. [链表旋转 k 次](/leetcode/linked-list/#_7-链表旋转-k-次)
+### 7. [合并两个有序链表](/leetcode/linked-list/#_7-合并两个有序链表)
+
+### 8. [链表旋转 k 次](/leetcode/linked-list/#_8-链表旋转-k-次)
 
 ## [数字](/leetcode/number/)
 

@@ -24,6 +24,10 @@
 
 <<< @/src/code/linked-list/剑指 Offer 24. 反转链表.js
 
-## 7. 链表旋转 k 次
+## 7. 合并两个有序链表
+
+<<< @/src/code/linked-list/合并两个有序链表.js
+
+## 8. 链表旋转 k 次
 
 <<< @/src/code/linked-list/链表旋转 k 次.js
