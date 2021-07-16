@@ -6,3 +6,4 @@ npm run build
 git add .
 
 echo "✅  npm run build pass"
+npm test
