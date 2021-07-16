@@ -62,6 +62,10 @@
 
 ### 6. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/binary-tree/#_6-剑指-offer-54-二叉搜索树的第-k-大节点)
 
+## [动态规划](/leetcode/dp/)
+
+### 1. [打印n对括号的组合](/leetcode/dp/#_1-打印n对括号的组合)
+
 ## [前端常见八股题](/leetcode/js/)
 
 ### 1. [LazyMan](/leetcode/js/#_1-lazyman)

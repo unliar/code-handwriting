@@ -37,3 +37,5 @@ MakeDirMarkdown("string", "字符串");
 MakeDirMarkdown("linked-list", "链表");
 
 MakeDirMarkdown("js", "前端常见八股题");
+
+MakeDirMarkdown("dp", "动态规划");
