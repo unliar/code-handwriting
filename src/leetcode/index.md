@@ -48,6 +48,8 @@
 
 ### 23. [有序数组是否是子序列](/leetcode/array/#_23-有序数组是否是子序列)
 
+### 24. [面试题 10.02. 变位词组](/leetcode/array/#_24-面试题-10-02-变位词组)
+
 ## [二叉树](/leetcode/binary-tree/)
 
 ### 1. [二叉搜索树查找](/leetcode/binary-tree/#_1-二叉搜索树查找)
@@ -68,15 +70,15 @@
 
 ## [前端常见八股题](/leetcode/js/)
 
-### 1. [LazyMan](/leetcode/js/#_1-lazyman)
+### 1. [a==1&&a==2&&a==3](/leetcode/js/#_1-a-1-a-2-a-3)
 
-### 2. [a==1&&a==2&&a==3](/leetcode/js/#_2-a-1-a-2-a-3)
+### 2. [add(1)(2)(3)](/leetcode/js/#_2-add-1-2-3)
 
-### 3. [add(1)(2)(3)](/leetcode/js/#_3-add-1-2-3)
+### 3. [async await 原理实现](/leetcode/js/#_3-async-await-原理实现)
 
-### 4. [async await 原理实现](/leetcode/js/#_4-async-await-原理实现)
+### 4. [bind-call-apply](/leetcode/js/#_4-bind-call-apply)
 
-### 5. [bind-call-apply](/leetcode/js/#_5-bind-call-apply)
+### 5. [LazyMan](/leetcode/js/#_5-lazyman)
 
 ### 6. [lru](/leetcode/js/#_6-lru)
 
