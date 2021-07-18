@@ -66,7 +66,11 @@
 
 ## [动态规划](/leetcode/dp/)
 
-### 1. [打印n对括号的组合](/leetcode/dp/#_1-打印n对括号的组合)
+### 1. [剑指 Offer 42. 连续子数组的最大和](/leetcode/dp/#_1-剑指-offer-42-连续子数组的最大和)
+
+### 2. [打印n对括号的组合](/leetcode/dp/#_2-打印n对括号的组合)
+
+### 3. [爬楼梯或者斐波那契数列](/leetcode/dp/#_3-爬楼梯或者斐波那契数列)
 
 ## [前端常见八股题](/leetcode/js/)
 
@@ -149,6 +153,8 @@
 ### 10. [整数反转](/leetcode/number/#_10-整数反转)
 
 ### 11. [是否是质数](/leetcode/number/#_11-是否是质数)
+
+### 12. [爬楼梯问题](/leetcode/number/#_12-爬楼梯问题)
 
 ## [剑指 Offer 专题](/leetcode/Offer/)
 
