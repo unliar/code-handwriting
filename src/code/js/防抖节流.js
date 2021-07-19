@@ -2,7 +2,7 @@
 
 function Denounce(fn, wait = 500) {
   let timer = null;
-  return function () {
+  return function() {
     // 每次都clearTime
     if (timer) clearTimeout(timer);
     timer = setTimeout(() => {
@@ -14,7 +14,7 @@ function Denounce(fn, wait = 500) {
 
 function Throtte(fn, wait = 500) {
   let timer = null;
-  return function () {
+  return function() {
     // 存在就拉闸 不然执行后续的
     if (timer) return;
     timer = setTimeout(() => {

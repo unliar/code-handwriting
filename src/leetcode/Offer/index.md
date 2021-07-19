@@ -277,6 +277,23 @@
 
 <<< @/src/code/linked-list/剑指 Offer 24. 反转链表.js
 
+## 剑指 Offer 25. 合并两个排序的链表
+
+#### 描述
+
+[leetcode](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
+
+输入两个递增排序的链表，合并这两个链表并使新链表中的节点仍然是递增排序的。
+
+```
+输入：1->2->4, 1->3->4
+输出：1->1->2->3->4->4
+```
+
+#### 题解
+
+<<< @/src/code/linked-list/剑指 Offer 25. 合并两个排序的链表.js
+
 ## 剑指 Offer 27. 二叉树的镜像
 
 #### 描述
