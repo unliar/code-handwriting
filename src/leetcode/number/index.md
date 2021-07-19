@@ -43,3 +43,7 @@
 ## 11. 是否是质数
 
 <<< @/src/code/number/是否是质数.js
+
+## 12. 爬楼梯问题
+
+<<< @/src/code/number/爬楼梯问题.js
