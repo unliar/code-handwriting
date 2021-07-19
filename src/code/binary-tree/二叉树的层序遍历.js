@@ -21,18 +21,35 @@ const LevelTravel = (root) => {
   return res;
 };
 
-const LevelTravel2 = (node) => {
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * 剑指 Offer 32 - III. 从上到下打印二叉树 III
+ * @link https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
+ * @param {TreeNode} root
+ * @return {number[][]}
+ */
+var levelOrder = function(root) {
   const res = [];
+  if (!root) return res;
   let level = 0;
-  const queue = [node];
-  while (queue.length) {
+  let q = [root];
+  while (q.length) {
     res[level] = [];
-    let len = queue.length;
+    let len = q.length;
+    // 判断本层是否需要逆序
+    const reverse = level % 2;
     while (len--) {
-      const n = queue.shift();
-      res[level].push(n.val);
-      n.left && queue.push(n.left);
-      n.right && queue.push(n.val);
+      const n = q.shift();
+      // 插入方式切换
+      reverse ? res[level].unshift(n.val) : res[level].push(n.val);
+      n.left && q.push(n.left);
+      n.right && q.push(n.right);
     }
     level++;
   }
