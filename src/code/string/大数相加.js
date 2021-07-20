@@ -25,12 +25,12 @@ console.log(add("92", "222"));
  * @returns
  */
 const pow = (n) => {
-  res = "2";
+  let res = "2";
   while (--n) {
     res = add(res, res);
   }
   return res;
 };
 console.log(pow(2));
-console.log(pow(2) == 4, pow(3) == 8, pow(4) == 16);
+console.log(pow(2) == "4", pow(3) == "8", pow(4) == "16");
 console.log(pow(1000));
