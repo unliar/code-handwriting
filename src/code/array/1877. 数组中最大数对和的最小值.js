@@ -11,7 +11,9 @@
  */
 var minPairSum = function(nums) {
   // 偷懒必不过 test case
+  // 要使得和最小, 那么必须最大的值和最小的值进行搭配
   nums.sort((a, b) => a - b);
+
   let max = nums[0] + nums[1];
   let start = 0;
   let end = nums.length - 1;
