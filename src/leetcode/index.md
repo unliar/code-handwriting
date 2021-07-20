@@ -80,15 +80,15 @@
 
 ## [前端常见八股题](/leetcode/js/)
 
-### 1. [a==1&&a==2&&a==3](/leetcode/js/#_1-a-1-a-2-a-3)
+### 1. [LazyMan](/leetcode/js/#_1-lazyman)
 
-### 2. [add(1)(2)(3)](/leetcode/js/#_2-add-1-2-3)
+### 2. [a==1&&a==2&&a==3](/leetcode/js/#_2-a-1-a-2-a-3)
 
-### 3. [async await 原理实现](/leetcode/js/#_3-async-await-原理实现)
+### 3. [add(1)(2)(3)](/leetcode/js/#_3-add-1-2-3)
 
-### 4. [bind-call-apply](/leetcode/js/#_4-bind-call-apply)
+### 4. [async await 原理实现](/leetcode/js/#_4-async-await-原理实现)
 
-### 5. [LazyMan](/leetcode/js/#_5-lazyman)
+### 5. [bind-call-apply](/leetcode/js/#_5-bind-call-apply)
 
 ### 6. [lru](/leetcode/js/#_6-lru)
 
@@ -122,21 +122,23 @@
 
 ## [链表](/leetcode/linked-list/)
 
-### 1. [删除排序链表中的重复元素](/leetcode/linked-list/#_1-删除排序链表中的重复元素)
+### 1. [两个链表相加组成一个新链表](/leetcode/linked-list/#_1-两个链表相加组成一个新链表)
 
-### 2. [判断是否是环形链表](/leetcode/linked-list/#_2-判断是否是环形链表)
+### 2. [删除排序链表中的重复元素](/leetcode/linked-list/#_2-删除排序链表中的重复元素)
 
-### 3. [剑指 Offer 06. 从尾到头打印链表](/leetcode/linked-list/#_3-剑指-offer-06-从尾到头打印链表)
+### 3. [判断是否是环形链表](/leetcode/linked-list/#_3-判断是否是环形链表)
 
-### 4. [剑指 Offer 18. 删除链表的节点](/leetcode/linked-list/#_4-剑指-offer-18-删除链表的节点)
+### 4. [剑指 Offer 06. 从尾到头打印链表](/leetcode/linked-list/#_4-剑指-offer-06-从尾到头打印链表)
 
-### 5. [剑指 Offer 22. 链表中倒数第 k 个节点](/leetcode/linked-list/#_5-剑指-offer-22-链表中倒数第-k-个节点)
+### 5. [剑指 Offer 18. 删除链表的节点](/leetcode/linked-list/#_5-剑指-offer-18-删除链表的节点)
 
-### 6. [剑指 Offer 24. 反转链表](/leetcode/linked-list/#_6-剑指-offer-24-反转链表)
+### 6. [剑指 Offer 22. 链表中倒数第 k 个节点](/leetcode/linked-list/#_6-剑指-offer-22-链表中倒数第-k-个节点)
 
-### 7. [剑指 Offer 25. 合并两个排序的链表](/leetcode/linked-list/#_7-剑指-offer-25-合并两个排序的链表)
+### 7. [剑指 Offer 24. 反转链表](/leetcode/linked-list/#_7-剑指-offer-24-反转链表)
 
-### 8. [链表旋转 k 次](/leetcode/linked-list/#_8-链表旋转-k-次)
+### 8. [剑指 Offer 25. 合并两个排序的链表](/leetcode/linked-list/#_8-剑指-offer-25-合并两个排序的链表)
+
+### 9. [链表旋转 k 次](/leetcode/linked-list/#_9-链表旋转-k-次)
 
 ## [数字](/leetcode/number/)
 
