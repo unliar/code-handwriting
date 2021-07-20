@@ -32,6 +32,10 @@
 
 <<< @/src/code/linked-list/剑指 Offer 25. 合并两个排序的链表.js
 
-## 9. 链表旋转 k 次
+## 9. 剑指 Offer 52. 两个链表的第一个公共节点
+
+<<< @/src/code/linked-list/剑指 Offer 52. 两个链表的第一个公共节点.js
+
+## 10. 链表旋转 k 次
 
 <<< @/src/code/linked-list/链表旋转 k 次.js

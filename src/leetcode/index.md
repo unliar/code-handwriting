@@ -80,15 +80,15 @@
 
 ## [前端常见八股题](/leetcode/js/)
 
-### 1. [LazyMan](/leetcode/js/#_1-lazyman)
+### 1. [a==1&&a==2&&a==3](/leetcode/js/#_1-a-1-a-2-a-3)
 
-### 2. [a==1&&a==2&&a==3](/leetcode/js/#_2-a-1-a-2-a-3)
+### 2. [add(1)(2)(3)](/leetcode/js/#_2-add-1-2-3)
 
-### 3. [add(1)(2)(3)](/leetcode/js/#_3-add-1-2-3)
+### 3. [async await 原理实现](/leetcode/js/#_3-async-await-原理实现)
 
-### 4. [async await 原理实现](/leetcode/js/#_4-async-await-原理实现)
+### 4. [bind-call-apply](/leetcode/js/#_4-bind-call-apply)
 
-### 5. [bind-call-apply](/leetcode/js/#_5-bind-call-apply)
+### 5. [LazyMan](/leetcode/js/#_5-lazyman)
 
 ### 6. [lru](/leetcode/js/#_6-lru)
 
@@ -138,7 +138,9 @@
 
 ### 8. [剑指 Offer 25. 合并两个排序的链表](/leetcode/linked-list/#_8-剑指-offer-25-合并两个排序的链表)
 
-### 9. [链表旋转 k 次](/leetcode/linked-list/#_9-链表旋转-k-次)
+### 9. [剑指 Offer 52. 两个链表的第一个公共节点](/leetcode/linked-list/#_9-剑指-offer-52-两个链表的第一个公共节点)
+
+### 10. [链表旋转 k 次](/leetcode/linked-list/#_10-链表旋转-k-次)
 
 ## [数字](/leetcode/number/)
 
@@ -218,15 +220,17 @@
 
 ### 25. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/Offer/#剑指-offer-50-第一个只出现一次的字符)
 
-### 26. [剑指 Offer 53 - I. 在排序数组中查找数字 I](/leetcode/Offer/#剑指-offer-53-i-在排序数组中查找数字-i)
+### 26. [剑指 Offer 52. 两个链表的第一个公共节点](/leetcode/Offer/#剑指-offer-52-两个链表的第一个公共节点)
 
-### 27. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/Offer/#剑指-offer-54-二叉搜索树的第-k-大节点)
+### 27. [剑指 Offer 53 - I. 在排序数组中查找数字 I](/leetcode/Offer/#剑指-offer-53-i-在排序数组中查找数字-i)
 
-### 28. [剑指 Offer 63. 股票的最大利润](/leetcode/Offer/#剑指-offer-63-股票的最大利润)
+### 28. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/Offer/#剑指-offer-54-二叉搜索树的第-k-大节点)
 
-### 29. [剑指 Offer 64. 求 1+2+…+n](/leetcode/Offer/#剑指-offer-64-求-1-2-n)
+### 29. [剑指 Offer 63. 股票的最大利润](/leetcode/Offer/#剑指-offer-63-股票的最大利润)
 
-### 30. [剑指 Offer 10- I. 斐波那契数列](/leetcode/Offer/#剑指-offer-10-i-斐波那契数列)
+### 30. [剑指 Offer 64. 求 1+2+…+n](/leetcode/Offer/#剑指-offer-64-求-1-2-n)
+
+### 31. [剑指 Offer 10- I. 斐波那契数列](/leetcode/Offer/#剑指-offer-10-i-斐波那契数列)
 
 ## [字符串](/leetcode/string/)
 
