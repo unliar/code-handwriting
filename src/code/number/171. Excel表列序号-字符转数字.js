@@ -1,5 +1,7 @@
 /**
  *
+ *
+ * @link https://leetcode-cn.com/problems/excel-sheet-column-number/
  * @param {string} columnTitle
  * @return {number}
  */
@@ -17,4 +19,4 @@ var titleToNumber = function(columnTitle) {
   return num;
 };
 
-console.log(titleToNumber("ZY"));
+console.log(titleToNumber("ZY") == 701);
