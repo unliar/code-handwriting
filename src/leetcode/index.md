@@ -80,15 +80,15 @@
 
 ## [前端常见八股题](/leetcode/js/)
 
-### 1. [a==1&&a==2&&a==3](/leetcode/js/#_1-a-1-a-2-a-3)
+### 1. [LazyMan](/leetcode/js/#_1-lazyman)
 
-### 2. [add(1)(2)(3)](/leetcode/js/#_2-add-1-2-3)
+### 2. [a==1&&a==2&&a==3](/leetcode/js/#_2-a-1-a-2-a-3)
 
-### 3. [async await 原理实现](/leetcode/js/#_3-async-await-原理实现)
+### 3. [add(1)(2)(3)](/leetcode/js/#_3-add-1-2-3)
 
-### 4. [bind-call-apply](/leetcode/js/#_4-bind-call-apply)
+### 4. [async await 原理实现](/leetcode/js/#_4-async-await-原理实现)
 
-### 5. [LazyMan](/leetcode/js/#_5-lazyman)
+### 5. [bind-call-apply](/leetcode/js/#_5-bind-call-apply)
 
 ### 6. [lru](/leetcode/js/#_6-lru)
 
