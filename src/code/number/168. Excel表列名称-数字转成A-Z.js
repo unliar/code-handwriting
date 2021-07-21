@@ -14,3 +14,5 @@ var convertToTitle = function(c) {
   }
   return result;
 };
+
+console.log(convertToTitle(28));
