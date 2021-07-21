@@ -146,29 +146,33 @@
 
 ## [数字](/leetcode/number/)
 
-### 1. [x 的 n 次方](/leetcode/number/#_1-x-的-n-次方)
+### 1. [168. Excel表列名称-数字转成A-Z](/leetcode/number/#_1-168-excel表列名称-数字转成a-z)
 
-### 2. [x 的平方根](/leetcode/number/#_2-x-的平方根)
+### 2. [171. Excel表列序号-字符转数字](/leetcode/number/#_2-171-excel表列序号-字符转数字)
 
-### 3. [从 n 个数中同概率的选出 m 个数字](/leetcode/number/#_3-从-n-个数中同概率的选出-m-个数字)
+### 3. [x 的 n 次方](/leetcode/number/#_3-x-的-n-次方)
 
-### 4. [剑指 Offer 10- I. 斐波那契数列](/leetcode/number/#_4-剑指-offer-10-i-斐波那契数列)
+### 4. [x 的平方根](/leetcode/number/#_4-x-的平方根)
 
-### 5. [剑指 Offer 16. 数值的整数次方](/leetcode/number/#_5-剑指-offer-16-数值的整数次方)
+### 5. [从 n 个数中同概率的选出 m 个数字](/leetcode/number/#_5-从-n-个数中同概率的选出-m-个数字)
 
-### 6. [剑指 Offer 17. 打印从 1 到最大的 n 位数](/leetcode/number/#_6-剑指-offer-17-打印从-1-到最大的-n-位数)
+### 6. [剑指 Offer 10- I. 斐波那契数列](/leetcode/number/#_6-剑指-offer-10-i-斐波那契数列)
 
-### 7. [剑指 Offer 49. 丑数](/leetcode/number/#_7-剑指-offer-49-丑数)
+### 7. [剑指 Offer 16. 数值的整数次方](/leetcode/number/#_7-剑指-offer-16-数值的整数次方)
 
-### 8. [剑指 Offer 64. 求 1+2+…+n](/leetcode/number/#_8-剑指-offer-64-求-1-2-n)
+### 8. [剑指 Offer 17. 打印从 1 到最大的 n 位数](/leetcode/number/#_8-剑指-offer-17-打印从-1-到最大的-n-位数)
 
-### 9. [射击运动员10枪90环的所有可能](/leetcode/number/#_9-射击运动员10枪90环的所有可能)
+### 9. [剑指 Offer 49. 丑数](/leetcode/number/#_9-剑指-offer-49-丑数)
 
-### 10. [整数反转](/leetcode/number/#_10-整数反转)
+### 10. [剑指 Offer 64. 求 1+2+…+n](/leetcode/number/#_10-剑指-offer-64-求-1-2-n)
 
-### 11. [是否是质数](/leetcode/number/#_11-是否是质数)
+### 11. [射击运动员10枪90环的所有可能](/leetcode/number/#_11-射击运动员10枪90环的所有可能)
 
-### 12. [爬楼梯问题](/leetcode/number/#_12-爬楼梯问题)
+### 12. [整数反转](/leetcode/number/#_12-整数反转)
+
+### 13. [是否是质数](/leetcode/number/#_13-是否是质数)
+
+### 14. [爬楼梯问题](/leetcode/number/#_14-爬楼梯问题)
 
 ## [剑指 Offer 专题](/leetcode/Offer/)
 
