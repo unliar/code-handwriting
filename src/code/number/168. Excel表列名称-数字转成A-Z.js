@@ -9,8 +9,10 @@ var convertToTitle = function(c) {
   let result = "";
   while (c) {
     c--;
-    result = str.charAt(c % 26) + result;
+    result = str[c % 26] + result;
     c = ~~(c / 26);
   }
   return result;
 };
+
+console.log(convertToTitle(28) == "AB");
