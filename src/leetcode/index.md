@@ -4,55 +4,57 @@
 
 ### 1. [1877. 数组中最大数对和的最小值](/leetcode/array/#_1-1877-数组中最大数对和的最小值)
 
-### 2. [Top k 问题](/leetcode/array/#_2-top-k-问题)
+### 2. [1893. 检查是否区域内所有整数都被覆盖](/leetcode/array/#_2-1893-检查是否区域内所有整数都被覆盖)
 
-### 3. [两个栈实现队列](/leetcode/array/#_3-两个栈实现队列)
+### 3. [Top k 问题](/leetcode/array/#_3-top-k-问题)
 
-### 4. [二分查找](/leetcode/array/#_4-二分查找)
+### 4. [两个栈实现队列](/leetcode/array/#_4-两个栈实现队列)
 
-### 5. [从数组 min 到 max 中选取 n 个数](/leetcode/array/#_5-从数组-min-到-max-中选取-n-个数)
+### 5. [二分查找](/leetcode/array/#_5-二分查找)
 
-### 6. [剑指 Offer 03. 数组中重复的数字](/leetcode/array/#_6-剑指-offer-03-数组中重复的数字)
+### 6. [从数组 min 到 max 中选取 n 个数](/leetcode/array/#_6-从数组-min-到-max-中选取-n-个数)
 
-### 7. [剑指 Offer 04. 二维数组中的查找](/leetcode/array/#_7-剑指-offer-04-二维数组中的查找)
+### 7. [剑指 Offer 03. 数组中重复的数字](/leetcode/array/#_7-剑指-offer-03-数组中重复的数字)
 
-### 8. [剑指 Offer 09. 用两个栈实现队列](/leetcode/array/#_8-剑指-offer-09-用两个栈实现队列)
+### 8. [剑指 Offer 04. 二维数组中的查找](/leetcode/array/#_8-剑指-offer-04-二维数组中的查找)
 
-### 9. [剑指 Offer 11. 旋转数组的最小数字](/leetcode/array/#_9-剑指-offer-11-旋转数组的最小数字)
+### 9. [剑指 Offer 09. 用两个栈实现队列](/leetcode/array/#_9-剑指-offer-09-用两个栈实现队列)
 
-### 10. [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](/leetcode/array/#_10-剑指-offer-21-调整数组顺序使奇数位于偶数前面)
+### 10. [剑指 Offer 11. 旋转数组的最小数字](/leetcode/array/#_10-剑指-offer-11-旋转数组的最小数字)
 
-### 11. [剑指 Offer 29. 顺时针打印矩阵](/leetcode/array/#_11-剑指-offer-29-顺时针打印矩阵)
+### 11. [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](/leetcode/array/#_11-剑指-offer-21-调整数组顺序使奇数位于偶数前面)
 
-### 12. [剑指 Offer 39. 数组中出现次数超过一半的数字](/leetcode/array/#_12-剑指-offer-39-数组中出现次数超过一半的数字)
+### 12. [剑指 Offer 29. 顺时针打印矩阵](/leetcode/array/#_12-剑指-offer-29-顺时针打印矩阵)
 
-### 13. [剑指 Offer 40. 最小的 k 个数](/leetcode/array/#_13-剑指-offer-40-最小的-k-个数)
+### 13. [剑指 Offer 39. 数组中出现次数超过一半的数字](/leetcode/array/#_13-剑指-offer-39-数组中出现次数超过一半的数字)
 
-### 14. [剑指 Offer 42. 连续子数组的最大和](/leetcode/array/#_14-剑指-offer-42-连续子数组的最大和)
+### 14. [剑指 Offer 40. 最小的 k 个数](/leetcode/array/#_14-剑指-offer-40-最小的-k-个数)
 
-### 15. [剑指 Offer 45. 把数组排成最小的数](/leetcode/array/#_15-剑指-offer-45-把数组排成最小的数)
+### 15. [剑指 Offer 42. 连续子数组的最大和](/leetcode/array/#_15-剑指-offer-42-连续子数组的最大和)
 
-### 16. [剑指 Offer 49. 丑数](/leetcode/array/#_16-剑指-offer-49-丑数)
+### 16. [剑指 Offer 45. 把数组排成最小的数](/leetcode/array/#_16-剑指-offer-45-把数组排成最小的数)
 
-### 17. [剑指 Offer 53 - I. 在排序数组中查找数字 I](/leetcode/array/#_17-剑指-offer-53-i-在排序数组中查找数字-i)
+### 17. [剑指 Offer 49. 丑数](/leetcode/array/#_17-剑指-offer-49-丑数)
 
-### 18. [剑指 Offer 63. 股票的最大利润](/leetcode/array/#_18-剑指-offer-63-股票的最大利润)
+### 18. [剑指 Offer 53 - I. 在排序数组中查找数字 I](/leetcode/array/#_18-剑指-offer-53-i-在排序数组中查找数字-i)
 
-### 19. [字符串翻转](/leetcode/array/#_19-字符串翻转)
+### 19. [剑指 Offer 63. 股票的最大利润](/leetcode/array/#_19-剑指-offer-63-股票的最大利润)
 
-### 20. [常见排序算法](/leetcode/array/#_20-常见排序算法)
+### 20. [字符串翻转](/leetcode/array/#_20-字符串翻转)
 
-### 21. [数组原地去重](/leetcode/array/#_21-数组原地去重)
+### 21. [常见排序算法](/leetcode/array/#_21-常见排序算法)
 
-### 22. [数组拍平](/leetcode/array/#_22-数组拍平)
+### 22. [数组原地去重](/leetcode/array/#_22-数组原地去重)
 
-### 23. [数组数字奇数偶数排序](/leetcode/array/#_23-数组数字奇数偶数排序)
+### 23. [数组拍平](/leetcode/array/#_23-数组拍平)
 
-### 24. [旋转二维数组](/leetcode/array/#_24-旋转二维数组)
+### 24. [数组数字奇数偶数排序](/leetcode/array/#_24-数组数字奇数偶数排序)
 
-### 25. [有序数组是否是子序列](/leetcode/array/#_25-有序数组是否是子序列)
+### 25. [旋转二维数组](/leetcode/array/#_25-旋转二维数组)
 
-### 26. [面试题 10.02. 变位词组](/leetcode/array/#_26-面试题-10-02-变位词组)
+### 26. [有序数组是否是子序列](/leetcode/array/#_26-有序数组是否是子序列)
+
+### 27. [面试题 10.02. 变位词组](/leetcode/array/#_27-面试题-10-02-变位词组)
 
 ## [二叉树](/leetcode/binary-tree/)
 
@@ -80,15 +82,15 @@
 
 ## [前端常见八股题](/leetcode/js/)
 
-### 1. [a==1&&a==2&&a==3](/leetcode/js/#_1-a-1-a-2-a-3)
+### 1. [LazyMan](/leetcode/js/#_1-lazyman)
 
-### 2. [add(1)(2)(3)](/leetcode/js/#_2-add-1-2-3)
+### 2. [a==1&&a==2&&a==3](/leetcode/js/#_2-a-1-a-2-a-3)
 
-### 3. [async await 原理实现](/leetcode/js/#_3-async-await-原理实现)
+### 3. [add(1)(2)(3)](/leetcode/js/#_3-add-1-2-3)
 
-### 4. [bind-call-apply](/leetcode/js/#_4-bind-call-apply)
+### 4. [async await 原理实现](/leetcode/js/#_4-async-await-原理实现)
 
-### 5. [LazyMan](/leetcode/js/#_5-lazyman)
+### 5. [bind-call-apply](/leetcode/js/#_5-bind-call-apply)
 
 ### 6. [lru](/leetcode/js/#_6-lru)
 
