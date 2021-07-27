@@ -254,23 +254,23 @@
 
 ## [字符串](/leetcode/string/)
 
-### 1. [二进制数中 1 的个数](/leetcode/string/#_1-二进制数中-1-的个数)
+### 1. [3. 无重复字符的最长子串](/leetcode/string/#_1-3-无重复字符的最长子串)
 
-### 2. [判断是否是回文数](/leetcode/string/#_2-判断是否是回文数)
+### 2. [二进制数中 1 的个数](/leetcode/string/#_2-二进制数中-1-的个数)
 
-### 3. [剑指 Offer 05. 替换空格](/leetcode/string/#_3-剑指-offer-05-替换空格)
+### 3. [判断是否是回文数](/leetcode/string/#_3-判断是否是回文数)
 
-### 4. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_4-剑指-offer-15-二进制中-1-的个数)
+### 4. [剑指 Offer 05. 替换空格](/leetcode/string/#_4-剑指-offer-05-替换空格)
 
-### 5. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_5-剑指-offer-38-字符串的排列)
+### 5. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_5-剑指-offer-15-二进制中-1-的个数)
 
-### 6. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_6-剑指-offer-48-最长不含重复字符的子字符串)
+### 6. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_6-剑指-offer-38-字符串的排列)
 
-### 7. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_7-剑指-offer-50-第一个只出现一次的字符)
+### 7. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_7-剑指-offer-48-最长不含重复字符的子字符串)
 
-### 8. [大数相加](/leetcode/string/#_8-大数相加)
+### 8. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_8-剑指-offer-50-第一个只出现一次的字符)
 
-### 9. [字符串最长不连续子串](/leetcode/string/#_9-字符串最长不连续子串)
+### 9. [大数相加](/leetcode/string/#_9-大数相加)
 
 ### 10. [字符串的全排列](/leetcode/string/#_10-字符串的全排列)
 
