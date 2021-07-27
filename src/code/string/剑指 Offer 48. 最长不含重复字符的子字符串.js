@@ -10,7 +10,7 @@ var lengthOfLongestSubstring = function(s) {
     // 删除之前重复的那个字符串
     const sindex = str.indexOf(curentstr);
     if (sindex > -1) {
-      str = str.slice(sindex + 1);
+      str = str.substring(sindex + 1);
     }
 
     str += curentstr;
