@@ -18,7 +18,7 @@
  */
 var isCovered = function(ranges, left, right) {
   let flag = true;
-  // 生成数组
+  // 遍历 left - right 之间的数字
   for (let v = left; v <= right; v++) {
     // 每一个值都应该落在某个 range
     const c = ranges.some((item) => {
