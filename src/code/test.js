@@ -62,7 +62,9 @@ const stringList2 = (s) => {
 console.log(stringList("ab"), stringList2("ab"));
 
 const CreateNew = (f, ...arg) => {
+  // 创建对象
   const obj = Object.create(f.prototype);
+  // 绑定this
   const ret = f.apply(obj, arg);
   // 内部可能返回一个函数
   return ret instanceof Object ? ret : obj;
