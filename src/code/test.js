@@ -60,3 +60,18 @@ const stringList2 = (s) => {
 };
 
 console.log(stringList("ab"), stringList2("ab"));
+
+const CreateNew = (f, ...arg) => {
+  const obj = Object.create(f.prototype);
+  const ret = f.apply(obj, arg);
+  // 内部可能返回一个函数
+  return ret instanceof Object ? ret : obj;
+};
+
+const Create = (f) => {
+  function F() {}
+  F.prototype = f;
+  F.prototype.constructor = F;
+
+  return new F();
+};
