@@ -77,3 +77,11 @@ const Create = (f) => {
 
   return new F();
 };
+
+Function.prototype.myApply = function(ctx = globalThis) {
+  ctx.fn = this;
+  const args = [...arguments].slice(1);
+  const ref = ctx.fn(args);
+  delete ctx.fn;
+  return ref;
+};
