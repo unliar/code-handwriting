@@ -1,4 +1,16 @@
 /**
+ * @description
+ * 给你一个字符串 s，找到 s 中最长的回文子串。
+
+示例 1：
+
+输入：s = "babad"
+输出："bab"
+解释："aba" 同样是符合题意的答案。
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/longest-palindromic-substring
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  * @param {string} s
  * @return {string}
  */
@@ -19,10 +31,7 @@ var longestPalindrome = function(s) {
       left--;
       right++;
     }
-    // 注意此处m,n的值循环完后  是恰好不满足循环条件的时刻
-    // 此时m到n的距离为n-m+1，但是mn两个边界不能取 所以应该取m+1到n-1的区间  长度是n-m-1
     if (right - left - 1 > res.length) {
-      // slice也要取[m+1,n-1]这个区间
       res = s.slice(left + 1, right);
     }
   }
