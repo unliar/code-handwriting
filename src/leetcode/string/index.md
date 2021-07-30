@@ -12,38 +12,42 @@
 
 <<< @/src/code/string/二进制数中 1 的个数.js
 
-## 4. 判断是否是回文数
+## 4. 出现次数最多的三个字符
+
+<<< @/src/code/string/出现次数最多的三个字符.js
+
+## 5. 判断是否是回文数
 
 <<< @/src/code/string/判断是否是回文数.js
 
-## 5. 剑指 Offer 05. 替换空格
+## 6. 剑指 Offer 05. 替换空格
 
 <<< @/src/code/string/剑指 Offer 05. 替换空格.js
 
-## 6. 剑指 Offer 15. 二进制中 1 的个数
+## 7. 剑指 Offer 15. 二进制中 1 的个数
 
 <<< @/src/code/string/剑指 Offer 15. 二进制中 1 的个数.js
 
-## 7. 剑指 Offer 38. 字符串的排列
+## 8. 剑指 Offer 38. 字符串的排列
 
 <<< @/src/code/string/剑指 Offer 38. 字符串的排列.js
 
-## 8. 剑指 Offer 48. 最长不含重复字符的子字符串
+## 9. 剑指 Offer 48. 最长不含重复字符的子字符串
 
 <<< @/src/code/string/剑指 Offer 48. 最长不含重复字符的子字符串.js
 
-## 9. 剑指 Offer 50. 第一个只出现一次的字符
+## 10. 剑指 Offer 50. 第一个只出现一次的字符
 
 <<< @/src/code/string/剑指 Offer 50. 第一个只出现一次的字符.js
 
-## 10. 大数相加
+## 11. 大数相加
 
 <<< @/src/code/string/大数相加.js
 
-## 11. 字符串的全排列
+## 12. 字符串的全排列
 
 <<< @/src/code/string/字符串的全排列.js
 
-## 12. 最长回文子串
+## 13. 最长回文子串
 
 <<< @/src/code/string/最长回文子串.js
