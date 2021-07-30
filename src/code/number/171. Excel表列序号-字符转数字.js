@@ -6,17 +6,11 @@
  * @return {number}
  */
 var titleToNumber = function(columnTitle) {
-  let maxIndex = columnTitle.length - 1;
-  let num = 0;
-  const str = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-  while (maxIndex >= 0) {
-    // 获取字符的位置
-    const s = columnTitle[columnTitle.length - 1 - maxIndex];
-    num = num * 26 + str.indexOf(s) + 1;
-    maxIndex--;
+  let ans = 0;
+  for (const c of columnTitle) {
+    ans = ans * 26 + (c.charCodeAt(0) - 64);
   }
-
-  return num;
+  return ans;
 };
 
 console.log(titleToNumber("ZY") == 701);

@@ -5,11 +5,10 @@
  * @return {string}
  */
 var convertToTitle = function(c) {
-  const str = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
   let result = "";
   while (c) {
     c--;
-    result = str[c % 26] + result;
+    result = String.fromCharCode((c % 26) + 65) + result;
     c = ~~(c / 26);
   }
   return result;
