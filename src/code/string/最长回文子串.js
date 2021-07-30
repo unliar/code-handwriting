@@ -15,26 +15,26 @@
  * @return {string}
  */
 var longestPalindrome = function(s) {
-  if (s.length < 2) {
-    return s;
-  }
-  let res = "";
-  for (let i = 0; i < s.length; i++) {
-    // 回文子串长度是奇数
-    helper(i, i);
-    // 回文子串长度是偶数
-    helper(i, i + 1);
-  }
+  if (s.length < 2) return s;
 
-  function helper(left, right) {
+  let res = "";
+
+  const dfs = (left, right) => {
     while (left >= 0 && right < s.length && s[left] == s[right]) {
       left--;
       right++;
     }
+    // 判断本轮回文字符串长度是否大于之前一轮的回文字符串
     if (right - left - 1 > res.length) {
       res = s.slice(left + 1, right);
     }
+  };
+
+  for (let i = 0; i < s.length; i++) {
+    dfs(i, i);
+    dfs(i, i + 1);
   }
+
   return res;
 };
 
