@@ -25,6 +25,9 @@ var longestPalindrome = function(s) {
       right++;
     }
     // 判断本轮回文字符串长度是否大于之前一轮的回文字符串
+    // left 0, right 1;
+    // 长度是 2 right - left +1
+    // 本轮实际的实际长度是  (right-1)-(left+1)+1
     if (right - left - 1 > res.length) {
       res = s.slice(left + 1, right);
     }
