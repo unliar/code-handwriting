@@ -85,3 +85,31 @@ Function.prototype.myApply = function(ctx = globalThis) {
   delete ctx.fn;
   return ref;
 };
+
+const qParse = (str) => {
+  const obj = {};
+  str.replace(/([^?&=]+)=([^&]+)/g, (_, k, v) => {
+    obj[k] = v;
+  });
+  return obj;
+};
+
+console.log(qParse("?a=d&d=1"));
+
+const quickSort = (arr) => {
+  // 递归退出条件
+  if (arr.length <= 1) return arr;
+  const left = [];
+  const right = [];
+  const mid = arr.shift();
+  arr.forEach((item) => {
+    if (item >= mid) {
+      right.push(item);
+    } else {
+      left.push(item);
+    }
+  });
+  return quickSort(left).concat(mid, quickSort(right));
+};
+
+console.log(quickSort([10, 5, 2, , 23, , 2, 323, 2, 2, 2, 99999, 1, -999]));
