@@ -13,7 +13,13 @@ var lengthOfLongestSubstring = function(s) {
   for (let index = 0; index < s.length; index++) {
     const currentStr = s[index];
     const sindex = str.indexOf(currentStr);
-    console.log("当前字符", currentStr, "搜索位置", sindex);
+    // 这个地方的意思是
+    // 如果之前某个位置出现过，那么就删除之前出现过的字符
+    // 比如
+    // str = 'abccodkad'
+    // 遍历到第二个c的时候
+    // 发现c之前出现过
+    // 那么删除 abc 保留 codkad
     if (sindex > -1) {
       str = str.substring(sindex + 1);
     }
