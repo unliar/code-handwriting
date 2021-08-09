@@ -136,7 +136,9 @@
 
 ### 21. [编写 webpack plugin filesize-plugin](/leetcode/js/#_21-编写-webpack-plugin-filesize-plugin)
 
-### 22. [防抖节流](/leetcode/js/#_22-防抖节流)
+### 22. [错误捕获输出题](/leetcode/js/#_22-错误捕获输出题)
+
+### 23. [防抖节流](/leetcode/js/#_23-防抖节流)
 
 ## [链表](/leetcode/linked-list/)
 

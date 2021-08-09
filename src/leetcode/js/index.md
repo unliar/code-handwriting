@@ -84,6 +84,10 @@
 
 <<< @/src/code/js/编写 webpack plugin filesize-plugin.js
 
-## 22. 防抖节流
+## 22. 错误捕获输出题
+
+<<< @/src/code/js/错误捕获输出题.js
+
+## 23. 防抖节流
 
 <<< @/src/code/js/防抖节流.js
