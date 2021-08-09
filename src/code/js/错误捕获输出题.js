@@ -1,6 +1,9 @@
 function wait() {
   return new Promise(() => {
     throw new Error("1111");
+    // 如果+了settimeout？
+    // 会报错，因为setTimeout是异步的
+    // 无法捕获
   });
 }
 
