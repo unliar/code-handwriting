@@ -106,39 +106,41 @@
 
 ### 6. [lru](/leetcode/js/#_6-lru)
 
-### 7. [实现 instanceOf](/leetcode/js/#_7-实现-instanceof)
+### 7. [原型链输出](/leetcode/js/#_7-原型链输出)
 
-### 8. [实现 koa compose](/leetcode/js/#_8-实现-koa-compose)
+### 8. [实现 instanceOf](/leetcode/js/#_8-实现-instanceof)
 
-### 9. [实现 new 和 create](/leetcode/js/#_9-实现-new-和-create)
+### 9. [实现 koa compose](/leetcode/js/#_9-实现-koa-compose)
 
-### 10. [实现 promise 的并发控制](/leetcode/js/#_10-实现-promise-的并发控制)
+### 10. [实现 new 和 create](/leetcode/js/#_10-实现-new-和-create)
 
-### 11. [实现 url query parse](/leetcode/js/#_11-实现-url-query-parse)
+### 11. [实现 promise 的并发控制](/leetcode/js/#_11-实现-promise-的并发控制)
 
-### 12. [实现一个简单的express-middleware](/leetcode/js/#_12-实现一个简单的express-middleware)
+### 12. [实现 url query parse](/leetcode/js/#_12-实现-url-query-parse)
 
-### 13. [手写 Promise.all](/leetcode/js/#_13-手写-promise-all)
+### 13. [实现一个简单的express-middleware](/leetcode/js/#_13-实现一个简单的express-middleware)
 
-### 14. [手写 Promise](/leetcode/js/#_14-手写-promise)
+### 14. [手写 Promise.all](/leetcode/js/#_14-手写-promise-all)
 
-### 15. [手写发布订阅模式](/leetcode/js/#_15-手写发布订阅模式)
+### 15. [手写 Promise](/leetcode/js/#_15-手写-promise)
 
-### 16. [数组对象深度遍历获取 id](/leetcode/js/#_16-数组对象深度遍历获取-id)
+### 16. [手写发布订阅模式](/leetcode/js/#_16-手写发布订阅模式)
 
-### 17. [数组转树结构](/leetcode/js/#_17-数组转树结构)
+### 17. [数组对象深度遍历获取 id](/leetcode/js/#_17-数组对象深度遍历获取-id)
 
-### 18. [斐波那契数列](/leetcode/js/#_18-斐波那契数列)
+### 18. [数组转树结构](/leetcode/js/#_18-数组转树结构)
 
-### 19. [树组件删除](/leetcode/js/#_19-树组件删除)
+### 19. [斐波那契数列](/leetcode/js/#_19-斐波那契数列)
 
-### 20. [深拷贝](/leetcode/js/#_20-深拷贝)
+### 20. [树组件删除](/leetcode/js/#_20-树组件删除)
 
-### 21. [编写 webpack plugin filesize-plugin](/leetcode/js/#_21-编写-webpack-plugin-filesize-plugin)
+### 21. [深拷贝](/leetcode/js/#_21-深拷贝)
 
-### 22. [错误捕获输出题](/leetcode/js/#_22-错误捕获输出题)
+### 22. [编写 webpack plugin filesize-plugin](/leetcode/js/#_22-编写-webpack-plugin-filesize-plugin)
 
-### 23. [防抖节流](/leetcode/js/#_23-防抖节流)
+### 23. [错误捕获输出题](/leetcode/js/#_23-错误捕获输出题)
+
+### 24. [防抖节流](/leetcode/js/#_24-防抖节流)
 
 ## [链表](/leetcode/linked-list/)
 

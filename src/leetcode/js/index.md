@@ -24,70 +24,74 @@
 
 <<< @/src/code/js/lru.js
 
-## 7. 实现 instanceOf
+## 7. 原型链输出
+
+<<< @/src/code/js/原型链输出.js
+
+## 8. 实现 instanceOf
 
 <<< @/src/code/js/实现 instanceOf.js
 
-## 8. 实现 koa compose
+## 9. 实现 koa compose
 
 <<< @/src/code/js/实现 koa compose.js
 
-## 9. 实现 new 和 create
+## 10. 实现 new 和 create
 
 <<< @/src/code/js/实现 new 和 create.js
 
-## 10. 实现 promise 的并发控制
+## 11. 实现 promise 的并发控制
 
 <<< @/src/code/js/实现 promise 的并发控制.js
 
-## 11. 实现 url query parse
+## 12. 实现 url query parse
 
 <<< @/src/code/js/实现 url query parse.js
 
-## 12. 实现一个简单的express-middleware
+## 13. 实现一个简单的express-middleware
 
 <<< @/src/code/js/实现一个简单的express-middleware.js
 
-## 13. 手写 Promise.all
+## 14. 手写 Promise.all
 
 <<< @/src/code/js/手写 Promise.all.js
 
-## 14. 手写 Promise
+## 15. 手写 Promise
 
 <<< @/src/code/js/手写 Promise.js
 
-## 15. 手写发布订阅模式
+## 16. 手写发布订阅模式
 
 <<< @/src/code/js/手写发布订阅模式.js
 
-## 16. 数组对象深度遍历获取 id
+## 17. 数组对象深度遍历获取 id
 
 <<< @/src/code/js/数组对象深度遍历获取 id.js
 
-## 17. 数组转树结构
+## 18. 数组转树结构
 
 <<< @/src/code/js/数组转树结构.js
 
-## 18. 斐波那契数列
+## 19. 斐波那契数列
 
 <<< @/src/code/js/斐波那契数列.js
 
-## 19. 树组件删除
+## 20. 树组件删除
 
 <<< @/src/code/js/树组件删除.js
 
-## 20. 深拷贝
+## 21. 深拷贝
 
 <<< @/src/code/js/深拷贝.js
 
-## 21. 编写 webpack plugin filesize-plugin
+## 22. 编写 webpack plugin filesize-plugin
 
 <<< @/src/code/js/编写 webpack plugin filesize-plugin.js
 
-## 22. 错误捕获输出题
+## 23. 错误捕获输出题
 
 <<< @/src/code/js/错误捕获输出题.js
 
-## 23. 防抖节流
+## 24. 防抖节流
 
 <<< @/src/code/js/防抖节流.js
