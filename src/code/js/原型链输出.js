@@ -65,3 +65,20 @@ console.log(test());
 var getname = obj.subOb.getName.bind(obj);
 
 console.log(getname());
+Array.prototype.valueOf = function() {
+  return [];
+};
+const arrayList = ["a", "b", "c", "d", "e", "f"];
+
+changeArr(arrayList);
+
+// 输出正常
+console.log(arrayList);
+
+function changeArr(arr) {
+  arr = [];
+  // 想要 arrayList 输出空 需要这样做
+  while (arrayList.length) {
+    arrayList.pop();
+  }
+}
