@@ -41,3 +41,27 @@ new Foo().getName();
 
 // 还是输出3
 new new Foo().getName();
+
+// 第二题
+var name = 1;
+var obj = {
+  name: "2",
+  subOb: {
+    name: 3,
+    getName() {
+      return this.name;
+    },
+  },
+};
+
+// 输出3
+console.log(obj.subOb.getName());
+
+// 输出2 因为最后调用的是 window.name
+var test = obj.subOb.getName;
+console.log(test());
+
+// 如何输出2 使用bind 修改上下文绑定
+var getname = obj.subOb.getName.bind(obj);
+
+console.log(getname());
