@@ -33,4 +33,26 @@ const FindKthLargest = (nums, k) => {
   return set[k - 1];
 };
 
+let findKthLargest = function(nums, k) {
+  // 进行k轮冒泡排序
+  bubbleSort(nums, k);
+  return nums[nums.length - k];
+};
+
+let bubbleSort = function(arr, k) {
+  for (let i = 0; i < k; i++) {
+    // 提前退出冒泡循环的标识位
+    let flag = true;
+    for (let j = 0; j < arr.length - i - 1; j++) {
+      if (arr[j] > arr[j + 1]) {
+        [arr[j + 1], arr[j]] = [arr[j], arr[j + 1]];
+        flag = false;
+        // 表示发生了数据交换
+      }
+    }
+    // 没有数据交换
+    if (flag) break;
+  }
+};
+
 console.log(FindKthLargest([1, 2, 3, 4, 4, 4, 5], 2));
