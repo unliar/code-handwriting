@@ -21,13 +21,13 @@ var getMaximumGenerated = function(n) {
   if (n == 1) return 1;
 
   for (let index = 2; index <= n; index++) {
+    let key = ~~(index / 2);
     // 偶数
     if (index % 2 === 0) {
-      arr[index] = arr[index / 2];
+      arr[index] = arr[key];
     } else {
       // 奇数
-      let x = ~~(index / 2);
-      arr[index] = arr[x] + arr[x + 1];
+      arr[index] = arr[key] + arr[key + 1];
     }
     // 求本轮最大值
     max = Math.max(arr[index], max);
