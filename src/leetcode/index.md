@@ -8,57 +8,59 @@
 
 ### 3. [49. 字母异位词分组](/leetcode/array/#_3-49-字母异位词分组)
 
-### 4. [Top k 问题](/leetcode/array/#_4-top-k-问题)
+### 4. [875. 爱吃香蕉的珂珂](/leetcode/array/#_4-875-爱吃香蕉的珂珂)
 
-### 5. [两个栈实现队列](/leetcode/array/#_5-两个栈实现队列)
+### 5. [Top k 问题](/leetcode/array/#_5-top-k-问题)
 
-### 6. [二分查找](/leetcode/array/#_6-二分查找)
+### 6. [两个栈实现队列](/leetcode/array/#_6-两个栈实现队列)
 
-### 7. [从数组 min 到 max 中选取 n 个数](/leetcode/array/#_7-从数组-min-到-max-中选取-n-个数)
+### 7. [二分查找](/leetcode/array/#_7-二分查找)
 
-### 8. [剑指 Offer 03. 数组中重复的数字](/leetcode/array/#_8-剑指-offer-03-数组中重复的数字)
+### 8. [从数组 min 到 max 中选取 n 个数](/leetcode/array/#_8-从数组-min-到-max-中选取-n-个数)
 
-### 9. [剑指 Offer 04. 二维数组中的查找](/leetcode/array/#_9-剑指-offer-04-二维数组中的查找)
+### 9. [剑指 Offer 03. 数组中重复的数字](/leetcode/array/#_9-剑指-offer-03-数组中重复的数字)
 
-### 10. [剑指 Offer 09. 用两个栈实现队列](/leetcode/array/#_10-剑指-offer-09-用两个栈实现队列)
+### 10. [剑指 Offer 04. 二维数组中的查找](/leetcode/array/#_10-剑指-offer-04-二维数组中的查找)
 
-### 11. [剑指 Offer 11. 旋转数组的最小数字](/leetcode/array/#_11-剑指-offer-11-旋转数组的最小数字)
+### 11. [剑指 Offer 09. 用两个栈实现队列](/leetcode/array/#_11-剑指-offer-09-用两个栈实现队列)
 
-### 12. [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](/leetcode/array/#_12-剑指-offer-21-调整数组顺序使奇数位于偶数前面)
+### 12. [剑指 Offer 11. 旋转数组的最小数字](/leetcode/array/#_12-剑指-offer-11-旋转数组的最小数字)
 
-### 13. [剑指 Offer 29. 顺时针打印矩阵](/leetcode/array/#_13-剑指-offer-29-顺时针打印矩阵)
+### 13. [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](/leetcode/array/#_13-剑指-offer-21-调整数组顺序使奇数位于偶数前面)
 
-### 14. [剑指 Offer 39. 数组中出现次数超过一半的数字](/leetcode/array/#_14-剑指-offer-39-数组中出现次数超过一半的数字)
+### 14. [剑指 Offer 29. 顺时针打印矩阵](/leetcode/array/#_14-剑指-offer-29-顺时针打印矩阵)
 
-### 15. [剑指 Offer 40. 最小的 k 个数](/leetcode/array/#_15-剑指-offer-40-最小的-k-个数)
+### 15. [剑指 Offer 39. 数组中出现次数超过一半的数字](/leetcode/array/#_15-剑指-offer-39-数组中出现次数超过一半的数字)
 
-### 16. [剑指 Offer 42. 连续子数组的最大和](/leetcode/array/#_16-剑指-offer-42-连续子数组的最大和)
+### 16. [剑指 Offer 40. 最小的 k 个数](/leetcode/array/#_16-剑指-offer-40-最小的-k-个数)
 
-### 17. [剑指 Offer 45. 把数组排成最小的数](/leetcode/array/#_17-剑指-offer-45-把数组排成最小的数)
+### 17. [剑指 Offer 42. 连续子数组的最大和](/leetcode/array/#_17-剑指-offer-42-连续子数组的最大和)
 
-### 18. [剑指 Offer 49. 丑数](/leetcode/array/#_18-剑指-offer-49-丑数)
+### 18. [剑指 Offer 45. 把数组排成最小的数](/leetcode/array/#_18-剑指-offer-45-把数组排成最小的数)
 
-### 19. [剑指 Offer 53 - I. 在排序数组中查找数字 I](/leetcode/array/#_19-剑指-offer-53-i-在排序数组中查找数字-i)
+### 19. [剑指 Offer 49. 丑数](/leetcode/array/#_19-剑指-offer-49-丑数)
 
-### 20. [剑指 Offer 63. 股票的最大利润](/leetcode/array/#_20-剑指-offer-63-股票的最大利润)
+### 20. [剑指 Offer 53 - I. 在排序数组中查找数字 I](/leetcode/array/#_20-剑指-offer-53-i-在排序数组中查找数字-i)
 
-### 21. [字符串翻转](/leetcode/array/#_21-字符串翻转)
+### 21. [剑指 Offer 63. 股票的最大利润](/leetcode/array/#_21-剑指-offer-63-股票的最大利润)
 
-### 22. [常见排序算法](/leetcode/array/#_22-常见排序算法)
+### 22. [字符串翻转](/leetcode/array/#_22-字符串翻转)
 
-### 23. [找出数组中比左边都大比右边都小的数](/leetcode/array/#_23-找出数组中比左边都大比右边都小的数)
+### 23. [常见排序算法](/leetcode/array/#_23-常见排序算法)
 
-### 24. [数组原地去重](/leetcode/array/#_24-数组原地去重)
+### 24. [找出数组中比左边都大比右边都小的数](/leetcode/array/#_24-找出数组中比左边都大比右边都小的数)
 
-### 25. [数组拍平](/leetcode/array/#_25-数组拍平)
+### 25. [数组原地去重](/leetcode/array/#_25-数组原地去重)
 
-### 26. [数组数字奇数偶数排序](/leetcode/array/#_26-数组数字奇数偶数排序)
+### 26. [数组拍平](/leetcode/array/#_26-数组拍平)
 
-### 27. [旋转二维数组](/leetcode/array/#_27-旋转二维数组)
+### 27. [数组数字奇数偶数排序](/leetcode/array/#_27-数组数字奇数偶数排序)
 
-### 28. [有序数组是否是子序列](/leetcode/array/#_28-有序数组是否是子序列)
+### 28. [旋转二维数组](/leetcode/array/#_28-旋转二维数组)
 
-### 29. [面试题 10.02. 变位词组](/leetcode/array/#_29-面试题-10-02-变位词组)
+### 29. [有序数组是否是子序列](/leetcode/array/#_29-有序数组是否是子序列)
+
+### 30. [面试题 10.02. 变位词组](/leetcode/array/#_30-面试题-10-02-变位词组)
 
 ## [二叉树](/leetcode/binary-tree/)
 
