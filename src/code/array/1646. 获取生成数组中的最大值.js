@@ -17,9 +17,7 @@ nums[1] = 1
  */
 var getMaximumGenerated = function(n) {
   let max = 0;
-  let arr = Array(n + 1).fill(0);
-  arr[1] = 1;
-
+  const arr = [0, 1];
   if (n == 1) return 1;
 
   for (let index = 2; index <= n; index++) {
@@ -31,7 +29,7 @@ var getMaximumGenerated = function(n) {
       let x = ~~(index / 2);
       arr[index] = arr[x] + arr[x + 1];
     }
-    // 贪心求最大值
+    // 求本轮最大值
     max = Math.max(arr[index], max);
   }
   return max;
