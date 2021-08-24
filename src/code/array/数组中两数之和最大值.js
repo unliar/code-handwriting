@@ -1,3 +1,9 @@
+/**
+ * @description: 数组中两数之和最大值
+ * 两数之和两数乘积都可以用此方式计算
+ * 两数之和最大值也可以理解为 Top 2 问题
+ * @param {Array} arr 数组
+ **/
 const maxSumArr = (arr) => {
   let maxSum;
   for (let i = 0; i < arr.length; i++) {
