@@ -11,17 +11,23 @@ int sumRange(int i, int j) 返回数组 nums 从索引 i 到 j（i ≤ j）
 
 示例：
 
+输入：
+["NumArray", "sumRange", "sumRange", "sumRange"]
+[[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]
+输出：
+[null, 1, -1, -3]
+
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/range-sum-query-immutable
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 var NumArray = function(nums) {
-  const dp = [nums[0]];
-  for (let i = 1; i <= nums.length; i++) {
-    // 第 i 个的和 是前一个的和 + 前一个的值
-    dp[i] = dp[i - 1] + nums[i - 1];
+  this.dp = [];
+  let total = 0;
+  for (let i of nums) {
+    total = total + i;
+    this.dp.push(total);
   }
-  this.dp = dp;
 };
 
 /**
@@ -30,7 +36,7 @@ var NumArray = function(nums) {
  * @return {number}
  */
 NumArray.prototype.sumRange = function(left, right) {
-  return this.dp[right + 1] - this.dp[left];
+  return this.dp[right] - (this.dp[left - 1] || 0);
 };
 
 /**
