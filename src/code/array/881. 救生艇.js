@@ -26,7 +26,7 @@ var numRescueBoats = function(people, limit) {
   let right = people.length - 1;
   let left = 0;
   let res = 0;
-  while (left < right) {
+  while (left <= right) {
     // 当最大和最小一起坐船超载时,那个较大只的就只能一个人坐一次船
     if (people[left] + people[right] > limit) {
       right--;
@@ -35,9 +35,6 @@ var numRescueBoats = function(people, limit) {
       right--;
     }
     // 遍历一次+1船
-    res++;
-  }
-  if (left == right) {
     res++;
   }
   return res;
