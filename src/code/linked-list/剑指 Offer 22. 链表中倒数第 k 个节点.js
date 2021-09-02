@@ -18,9 +18,10 @@ var getKthFromEnd = function(head, k) {
   // 快慢指针 让快的先走k步
   while (fast) {
     fast = fast.next;
-    if (k-- <= 0) {
+    if (k <= 0) {
       slow = slow.next;
     }
+    k--;
   }
   return slow;
 };
