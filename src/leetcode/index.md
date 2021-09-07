@@ -288,34 +288,36 @@
 
 ## [字符串](/leetcode/string/)
 
-### 1. [165. 比较版本号](/leetcode/string/#_1-165-比较版本号)
+### 1. [1221. 分割平衡字符串](/leetcode/string/#_1-1221-分割平衡字符串)
 
-### 2. [20. 有效的括号](/leetcode/string/#_2-20-有效的括号)
+### 2. [165. 比较版本号](/leetcode/string/#_2-165-比较版本号)
 
-### 3. [3. 无重复字符的最长子串](/leetcode/string/#_3-3-无重复字符的最长子串)
+### 3. [20. 有效的括号](/leetcode/string/#_3-20-有效的括号)
 
-### 4. [468. 验证IP地址](/leetcode/string/#_4-468-验证ip地址)
+### 4. [3. 无重复字符的最长子串](/leetcode/string/#_4-3-无重复字符的最长子串)
 
-### 5. [647. 回文子串](/leetcode/string/#_5-647-回文子串)
+### 5. [468. 验证IP地址](/leetcode/string/#_5-468-验证ip地址)
 
-### 6. [二进制数中 1 的个数](/leetcode/string/#_6-二进制数中-1-的个数)
+### 6. [647. 回文子串](/leetcode/string/#_6-647-回文子串)
 
-### 7. [出现次数最多的三个字符](/leetcode/string/#_7-出现次数最多的三个字符)
+### 7. [二进制数中 1 的个数](/leetcode/string/#_7-二进制数中-1-的个数)
 
-### 8. [判断是否是回文数](/leetcode/string/#_8-判断是否是回文数)
+### 8. [出现次数最多的三个字符](/leetcode/string/#_8-出现次数最多的三个字符)
 
-### 9. [剑指 Offer 05. 替换空格](/leetcode/string/#_9-剑指-offer-05-替换空格)
+### 9. [判断是否是回文数](/leetcode/string/#_9-判断是否是回文数)
 
-### 10. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_10-剑指-offer-15-二进制中-1-的个数)
+### 10. [剑指 Offer 05. 替换空格](/leetcode/string/#_10-剑指-offer-05-替换空格)
 
-### 11. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_11-剑指-offer-38-字符串的排列)
+### 11. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_11-剑指-offer-15-二进制中-1-的个数)
 
-### 12. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_12-剑指-offer-48-最长不含重复字符的子字符串)
+### 12. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_12-剑指-offer-38-字符串的排列)
 
-### 13. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_13-剑指-offer-50-第一个只出现一次的字符)
+### 13. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_13-剑指-offer-48-最长不含重复字符的子字符串)
 
-### 14. [大数相加](/leetcode/string/#_14-大数相加)
+### 14. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_14-剑指-offer-50-第一个只出现一次的字符)
 
-### 15. [字符串的全排列](/leetcode/string/#_15-字符串的全排列)
+### 15. [大数相加](/leetcode/string/#_15-大数相加)
 
-### 16. [最长回文子串](/leetcode/string/#_16-最长回文子串)
+### 16. [字符串的全排列](/leetcode/string/#_16-字符串的全排列)
+
+### 17. [最长回文子串](/leetcode/string/#_17-最长回文子串)
