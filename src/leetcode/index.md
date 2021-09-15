@@ -128,41 +128,43 @@
 
 ### 6. [lru](/leetcode/js/#_6-lru)
 
-### 7. [原型链输出](/leetcode/js/#_7-原型链输出)
+### 7. [ts类型体操的实现](/leetcode/js/#_7-ts类型体操的实现)
 
-### 8. [实现 instanceOf](/leetcode/js/#_8-实现-instanceof)
+### 8. [原型链输出](/leetcode/js/#_8-原型链输出)
 
-### 9. [实现 koa compose](/leetcode/js/#_9-实现-koa-compose)
+### 9. [实现 instanceOf](/leetcode/js/#_9-实现-instanceof)
 
-### 10. [实现 new 和 create](/leetcode/js/#_10-实现-new-和-create)
+### 10. [实现 koa compose](/leetcode/js/#_10-实现-koa-compose)
 
-### 11. [实现 promise 的并发控制](/leetcode/js/#_11-实现-promise-的并发控制)
+### 11. [实现 new 和 create](/leetcode/js/#_11-实现-new-和-create)
 
-### 12. [实现 url query parse](/leetcode/js/#_12-实现-url-query-parse)
+### 12. [实现 promise 的并发控制](/leetcode/js/#_12-实现-promise-的并发控制)
 
-### 13. [实现一个简单的express-middleware](/leetcode/js/#_13-实现一个简单的express-middleware)
+### 13. [实现 url query parse](/leetcode/js/#_13-实现-url-query-parse)
 
-### 14. [手写 Promise.all](/leetcode/js/#_14-手写-promise-all)
+### 14. [实现一个简单的express-middleware](/leetcode/js/#_14-实现一个简单的express-middleware)
 
-### 15. [手写 Promise](/leetcode/js/#_15-手写-promise)
+### 15. [手写 Promise.all](/leetcode/js/#_15-手写-promise-all)
 
-### 16. [手写发布订阅模式](/leetcode/js/#_16-手写发布订阅模式)
+### 16. [手写 Promise](/leetcode/js/#_16-手写-promise)
 
-### 17. [数组对象深度遍历获取 id](/leetcode/js/#_17-数组对象深度遍历获取-id)
+### 17. [手写发布订阅模式](/leetcode/js/#_17-手写发布订阅模式)
 
-### 18. [数组转树结构](/leetcode/js/#_18-数组转树结构)
+### 18. [数组对象深度遍历获取 id](/leetcode/js/#_18-数组对象深度遍历获取-id)
 
-### 19. [斐波那契数列](/leetcode/js/#_19-斐波那契数列)
+### 19. [数组转树结构](/leetcode/js/#_19-数组转树结构)
 
-### 20. [树组件删除](/leetcode/js/#_20-树组件删除)
+### 20. [斐波那契数列](/leetcode/js/#_20-斐波那契数列)
 
-### 21. [深拷贝](/leetcode/js/#_21-深拷贝)
+### 21. [树组件删除](/leetcode/js/#_21-树组件删除)
 
-### 22. [编写 webpack plugin filesize-plugin](/leetcode/js/#_22-编写-webpack-plugin-filesize-plugin)
+### 22. [深拷贝](/leetcode/js/#_22-深拷贝)
 
-### 23. [错误捕获输出题](/leetcode/js/#_23-错误捕获输出题)
+### 23. [编写 webpack plugin filesize-plugin](/leetcode/js/#_23-编写-webpack-plugin-filesize-plugin)
 
-### 24. [防抖节流](/leetcode/js/#_24-防抖节流)
+### 24. [错误捕获输出题](/leetcode/js/#_24-错误捕获输出题)
+
+### 25. [防抖节流](/leetcode/js/#_25-防抖节流)
 
 ## [链表](/leetcode/linked-list/)
 
