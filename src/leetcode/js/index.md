@@ -1,24 +1,24 @@
 # 前端常见八股题
 
-## 1. LazyMan
-
-<<< @/src/code/js/LazyMan.js
-
-## 2. a==1&&a==2&&a==3
+## 1. a==1&&a==2&&a==3
 
 <<< @/src/code/js/a==1&&a==2&&a==3.js
 
-## 3. add(1)(2)(3)
+## 2. add(1)(2)(3)
 
 <<< @/src/code/js/add(1)(2)(3).js
 
-## 4. async await 原理实现
+## 3. async await 原理实现
 
 <<< @/src/code/js/async await 原理实现.js
 
-## 5. bind-call-apply
+## 4. bind-call-apply
 
 <<< @/src/code/js/bind-call-apply.js
+
+## 5. LazyMan
+
+<<< @/src/code/js/LazyMan.js
 
 ## 6. lru
 
