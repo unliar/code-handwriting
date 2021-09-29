@@ -16,50 +16,54 @@
 
 <<< @/src/code/number/202. 快乐数.js
 
-## 5. x 的 n 次方
+## 5. 326. 3的幂
+
+<<< @/src/code/number/326. 3的幂.js
+
+## 6. x 的 n 次方
 
 <<< @/src/code/number/x 的 n 次方.js
 
-## 6. x 的平方根
+## 7. x 的平方根
 
 <<< @/src/code/number/x 的平方根.js
 
-## 7. 从 n 个数中同概率的选出 m 个数字
+## 8. 从 n 个数中同概率的选出 m 个数字
 
 <<< @/src/code/number/从 n 个数中同概率的选出 m 个数字.js
 
-## 8. 剑指 Offer 10- I. 斐波那契数列
+## 9. 剑指 Offer 10- I. 斐波那契数列
 
 <<< @/src/code/number/剑指 Offer 10- I. 斐波那契数列.js
 
-## 9. 剑指 Offer 16. 数值的整数次方
+## 10. 剑指 Offer 16. 数值的整数次方
 
 <<< @/src/code/number/剑指 Offer 16. 数值的整数次方.js
 
-## 10. 剑指 Offer 17. 打印从 1 到最大的 n 位数
+## 11. 剑指 Offer 17. 打印从 1 到最大的 n 位数
 
 <<< @/src/code/number/剑指 Offer 17. 打印从 1 到最大的 n 位数.js
 
-## 11. 剑指 Offer 49. 丑数
+## 12. 剑指 Offer 49. 丑数
 
 <<< @/src/code/number/剑指 Offer 49. 丑数.js
 
-## 12. 剑指 Offer 64. 求 1+2+…+n
+## 13. 剑指 Offer 64. 求 1+2+…+n
 
 <<< @/src/code/number/剑指 Offer 64. 求 1+2+…+n.js
 
-## 13. 射击运动员10枪90环的所有可能
+## 14. 射击运动员10枪90环的所有可能
 
 <<< @/src/code/number/射击运动员10枪90环的所有可能.js
 
-## 14. 整数反转
+## 15. 整数反转
 
 <<< @/src/code/number/整数反转.js
 
-## 15. 是否是质数
+## 16. 是否是质数
 
 <<< @/src/code/number/是否是质数.js
 
-## 16. 爬楼梯问题
+## 17. 爬楼梯问题
 
 <<< @/src/code/number/爬楼梯问题.js
