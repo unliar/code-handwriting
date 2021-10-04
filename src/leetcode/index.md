@@ -132,15 +132,15 @@
 
 ## [前端常见八股题](/leetcode/js/)
 
-### 1. [a==1&&a==2&&a==3](/leetcode/js/#_1-a-1-a-2-a-3)
+### 1. [LazyMan](/leetcode/js/#_1-lazyman)
 
-### 2. [add(1)(2)(3)](/leetcode/js/#_2-add-1-2-3)
+### 2. [a==1&&a==2&&a==3](/leetcode/js/#_2-a-1-a-2-a-3)
 
-### 3. [async await 原理实现](/leetcode/js/#_3-async-await-原理实现)
+### 3. [add(1)(2)(3)](/leetcode/js/#_3-add-1-2-3)
 
-### 4. [bind-call-apply](/leetcode/js/#_4-bind-call-apply)
+### 4. [async await 原理实现](/leetcode/js/#_4-async-await-原理实现)
 
-### 5. [LazyMan](/leetcode/js/#_5-lazyman)
+### 5. [bind-call-apply](/leetcode/js/#_5-bind-call-apply)
 
 ### 6. [lru](/leetcode/js/#_6-lru)
 
@@ -322,28 +322,30 @@
 
 ### 5. [468. 验证IP地址](/leetcode/string/#_5-468-验证ip地址)
 
-### 6. [58. 最后一个单词的长度](/leetcode/string/#_6-58-最后一个单词的长度)
+### 6. [482. 密钥格式化](/leetcode/string/#_6-482-密钥格式化)
 
-### 7. [647. 回文子串](/leetcode/string/#_7-647-回文子串)
+### 7. [58. 最后一个单词的长度](/leetcode/string/#_7-58-最后一个单词的长度)
 
-### 8. [二进制数中 1 的个数](/leetcode/string/#_8-二进制数中-1-的个数)
+### 8. [647. 回文子串](/leetcode/string/#_8-647-回文子串)
 
-### 9. [出现次数最多的三个字符](/leetcode/string/#_9-出现次数最多的三个字符)
+### 9. [二进制数中 1 的个数](/leetcode/string/#_9-二进制数中-1-的个数)
 
-### 10. [判断是否是回文数](/leetcode/string/#_10-判断是否是回文数)
+### 10. [出现次数最多的三个字符](/leetcode/string/#_10-出现次数最多的三个字符)
 
-### 11. [剑指 Offer 05. 替换空格](/leetcode/string/#_11-剑指-offer-05-替换空格)
+### 11. [判断是否是回文数](/leetcode/string/#_11-判断是否是回文数)
 
-### 12. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_12-剑指-offer-15-二进制中-1-的个数)
+### 12. [剑指 Offer 05. 替换空格](/leetcode/string/#_12-剑指-offer-05-替换空格)
 
-### 13. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_13-剑指-offer-38-字符串的排列)
+### 13. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_13-剑指-offer-15-二进制中-1-的个数)
 
-### 14. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_14-剑指-offer-48-最长不含重复字符的子字符串)
+### 14. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_14-剑指-offer-38-字符串的排列)
 
-### 15. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_15-剑指-offer-50-第一个只出现一次的字符)
+### 15. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_15-剑指-offer-48-最长不含重复字符的子字符串)
 
-### 16. [大数相加](/leetcode/string/#_16-大数相加)
+### 16. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_16-剑指-offer-50-第一个只出现一次的字符)
 
-### 17. [字符串的全排列](/leetcode/string/#_17-字符串的全排列)
+### 17. [大数相加](/leetcode/string/#_17-大数相加)
 
-### 18. [最长回文子串](/leetcode/string/#_18-最长回文子串)
+### 18. [字符串的全排列](/leetcode/string/#_18-字符串的全排列)
+
+### 19. [最长回文子串](/leetcode/string/#_19-最长回文子串)
