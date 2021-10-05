@@ -16,6 +16,9 @@
 
 /**
  * @param {Iterator} iterator
+ * @link https://leetcode.com/problems/peeking-iterator/
+ * @description 窥探迭代器
+ * 请你设计一个迭代器，除了支持 hasNext 和 next 操作外，还支持 peek 操作。
  */
 var PeekingIterator = function(iterator) {
   this.ele = null;
