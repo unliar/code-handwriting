@@ -112,6 +112,8 @@
 
 ### 8. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/binary-tree/#_8-剑指-offer-54-二叉搜索树的第-k-大节点)
 
+### 9. [剑指 Offer 55 - II. 平衡二叉树](/leetcode/binary-tree/#_9-剑指-offer-55-ii-平衡二叉树)
+
 ## [动态规划](/leetcode/dp/)
 
 ### 1. [198. 打家劫舍](/leetcode/dp/#_1-198-打家劫舍)

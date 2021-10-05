@@ -31,3 +31,7 @@
 ## 8. 剑指 Offer 54. 二叉搜索树的第 k 大节点
 
 <<< @/src/code/binary-tree/剑指 Offer 54. 二叉搜索树的第 k 大节点.js
+
+## 9. 剑指 Offer 55 - II. 平衡二叉树
+
+<<< @/src/code/binary-tree/剑指 Offer 55 - II. 平衡二叉树.js
