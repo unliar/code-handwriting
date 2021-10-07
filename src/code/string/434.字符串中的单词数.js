@@ -21,3 +21,24 @@
 var countSegments = function(s) {
   return s.split(" ").filter((i) => !!i).length;
 };
+
+// 解法2
+var countSegments2 = function(s) {
+  let str = "";
+  let count = 0;
+  for (let S of s) {
+    // 如果字符串是空格
+    if (S == " ") {
+      // 检查暂存的字符串是否为空,不为空计数+1，并且置空
+      if (str != "") {
+        count++;
+        str = "";
+      }
+    } else if (S != "") {
+      // 非空格字符串拼接
+      str += S;
+    }
+  }
+  // 有可能最后一个单词没空格 所以没计数
+  return str.length == 0 ? count : count + 1;
+};
