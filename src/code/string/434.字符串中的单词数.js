@@ -42,3 +42,7 @@ var countSegments2 = function(s) {
   // 有可能最后一个单词没空格 所以没计数
   return str.length == 0 ? count : count + 1;
 };
+// 解法3 正则
+var countSegments3 = function(s) {
+  return s.match(/[^\s]+/g)?.length ?? 0;
+};
