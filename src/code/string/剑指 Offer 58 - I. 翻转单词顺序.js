@@ -18,7 +18,7 @@ var reverseWords = function(s) {
  * @description 遍历字符按条件截断
  */
 var reverseWords = function(s) {
-  let res = [];
+  let res = "";
   let temp = "";
   for (let str of s) {
     // 如果字符串不为空 拼接字符串
@@ -27,11 +27,11 @@ var reverseWords = function(s) {
     }
     // 字符串为空且 temp 字符串不为空 说明该截断。
     if (str == " " && temp != "") {
-      res = [temp].concat(res);
+      res = temp + " " + res;
       temp = "";
     }
   }
   // 最后一个单词处理
-  if (temp != "") res = [temp].concat(res);
-  return res.join(" ");
+  if (temp != "") res = temp + " " + res;
+  return res.trim();
 };
