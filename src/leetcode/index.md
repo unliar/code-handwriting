@@ -146,15 +146,15 @@
 
 ## [前端常见八股题](/leetcode/js/)
 
-### 1. [a==1&&a==2&&a==3](/leetcode/js/#_1-a-1-a-2-a-3)
+### 1. [LazyMan](/leetcode/js/#_1-lazyman)
 
-### 2. [add(1)(2)(3)](/leetcode/js/#_2-add-1-2-3)
+### 2. [a==1&&a==2&&a==3](/leetcode/js/#_2-a-1-a-2-a-3)
 
-### 3. [async await 原理实现](/leetcode/js/#_3-async-await-原理实现)
+### 3. [add(1)(2)(3)](/leetcode/js/#_3-add-1-2-3)
 
-### 4. [bind-call-apply](/leetcode/js/#_4-bind-call-apply)
+### 4. [async await 原理实现](/leetcode/js/#_4-async-await-原理实现)
 
-### 5. [LazyMan](/leetcode/js/#_5-lazyman)
+### 5. [bind-call-apply](/leetcode/js/#_5-bind-call-apply)
 
 ### 6. [lru](/leetcode/js/#_6-lru)
 
@@ -375,3 +375,7 @@
 ### 21. [字符串的全排列](/leetcode/string/#_21-字符串的全排列)
 
 ### 22. [最长回文子串](/leetcode/string/#_22-最长回文子串)
+
+## [前缀树](/leetcode/trie/)
+
+### 1. [208. 实现 Trie (前缀树)](/leetcode/trie/#_1-208-实现-trie-前缀树)
