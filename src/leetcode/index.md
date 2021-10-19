@@ -370,11 +370,13 @@
 
 ### 19. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_19-剑指-offer-50-第一个只出现一次的字符)
 
-### 20. [大数相加](/leetcode/string/#_20-大数相加)
+### 20. [剑指 Offer 58 - I. 翻转单词顺序](/leetcode/string/#_20-剑指-offer-58-i-翻转单词顺序)
 
-### 21. [字符串的全排列](/leetcode/string/#_21-字符串的全排列)
+### 21. [大数相加](/leetcode/string/#_21-大数相加)
 
-### 22. [最长回文子串](/leetcode/string/#_22-最长回文子串)
+### 22. [字符串的全排列](/leetcode/string/#_22-字符串的全排列)
+
+### 23. [最长回文子串](/leetcode/string/#_23-最长回文子串)
 
 ## [前缀树](/leetcode/trie/)
 
