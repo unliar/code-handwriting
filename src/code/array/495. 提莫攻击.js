@@ -6,8 +6,7 @@
  * @link https://leetcode-cn.com/problems/teemo-attacking/
  */
 var findPoisonedDuration = function(timeSeries, duration) {
-  let res = 0;
-  if (timeSeries.length == 0) return duration;
+  let res = duration;
   for (let index = 1; index < timeSeries.length; index++) {
     const pre = timeSeries[index - 1];
     const current = timeSeries[index];
@@ -20,5 +19,5 @@ var findPoisonedDuration = function(timeSeries, duration) {
       res += duration;
     }
   }
-  return res + duration;
+  return res;
 };
