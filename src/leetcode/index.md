@@ -128,19 +128,21 @@
 
 ### 4. [671. 二叉树中第二小的节点](/leetcode/binary-tree/#_4-671-二叉树中第二小的节点)
 
-### 5. [二叉搜索树查找](/leetcode/binary-tree/#_5-二叉搜索树查找)
+### 5. [98. 验证二叉搜索树](/leetcode/binary-tree/#_5-98-验证二叉搜索树)
 
-### 6. [二叉树的层序遍历](/leetcode/binary-tree/#_6-二叉树的层序遍历)
+### 6. [二叉搜索树查找](/leetcode/binary-tree/#_6-二叉搜索树查找)
 
-### 7. [二叉树的遍历](/leetcode/binary-tree/#_7-二叉树的遍历)
+### 7. [二叉树的层序遍历](/leetcode/binary-tree/#_7-二叉树的层序遍历)
 
-### 8. [剑指 Offer 27. 二叉树的镜像](/leetcode/binary-tree/#_8-剑指-offer-27-二叉树的镜像)
+### 8. [二叉树的遍历](/leetcode/binary-tree/#_8-二叉树的遍历)
 
-### 9. [剑指 Offer 28. 对称的二叉树](/leetcode/binary-tree/#_9-剑指-offer-28-对称的二叉树)
+### 9. [剑指 Offer 27. 二叉树的镜像](/leetcode/binary-tree/#_9-剑指-offer-27-二叉树的镜像)
 
-### 10. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/binary-tree/#_10-剑指-offer-54-二叉搜索树的第-k-大节点)
+### 10. [剑指 Offer 28. 对称的二叉树](/leetcode/binary-tree/#_10-剑指-offer-28-对称的二叉树)
 
-### 11. [剑指 Offer 55 - II. 平衡二叉树](/leetcode/binary-tree/#_11-剑指-offer-55-ii-平衡二叉树)
+### 11. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/binary-tree/#_11-剑指-offer-54-二叉搜索树的第-k-大节点)
+
+### 12. [剑指 Offer 55 - II. 平衡二叉树](/leetcode/binary-tree/#_12-剑指-offer-55-ii-平衡二叉树)
 
 ## [动态规划](/leetcode/dp/)
 
