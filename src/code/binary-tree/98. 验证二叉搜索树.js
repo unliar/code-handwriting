@@ -10,7 +10,7 @@
  * @param {TreeNode} root
  * @return {boolean}
  * @link https://leetcode-cn.com/problems/validate-binary-search-tree/
- * @description 思路：中序遍历，每次遍历到的值都要比前一个值小，否则返回false
+ * @description 额外思路：中序遍历，每次遍历到的值都要比前一个值小，否则返回false
  */
 var isValidBST = function(root, min = -Infinity, max = Infinity) {
   if (root == null) return true;
