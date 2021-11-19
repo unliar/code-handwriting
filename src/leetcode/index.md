@@ -272,35 +272,37 @@
 
 ### 6. [326. 3的幂](/leetcode/number/#_6-326-3的幂)
 
-### 7. [405. 数字转换为十六进制数](/leetcode/number/#_7-405-数字转换为十六进制数)
+### 7. [397. 整数替换](/leetcode/number/#_7-397-整数替换)
 
-### 8. [412. Fizz Buzz](/leetcode/number/#_8-412-fizz-buzz)
+### 8. [405. 数字转换为十六进制数](/leetcode/number/#_8-405-数字转换为十六进制数)
 
-### 9. [476. 数字的补数](/leetcode/number/#_9-476-数字的补数)
+### 9. [412. Fizz Buzz](/leetcode/number/#_9-412-fizz-buzz)
 
-### 10. [x 的 n 次方](/leetcode/number/#_10-x-的-n-次方)
+### 10. [476. 数字的补数](/leetcode/number/#_10-476-数字的补数)
 
-### 11. [x 的平方根](/leetcode/number/#_11-x-的平方根)
+### 11. [x 的 n 次方](/leetcode/number/#_11-x-的-n-次方)
 
-### 12. [从 n 个数中同概率的选出 m 个数字](/leetcode/number/#_12-从-n-个数中同概率的选出-m-个数字)
+### 12. [x 的平方根](/leetcode/number/#_12-x-的平方根)
 
-### 13. [剑指 Offer 10- I. 斐波那契数列](/leetcode/number/#_13-剑指-offer-10-i-斐波那契数列)
+### 13. [从 n 个数中同概率的选出 m 个数字](/leetcode/number/#_13-从-n-个数中同概率的选出-m-个数字)
 
-### 14. [剑指 Offer 16. 数值的整数次方](/leetcode/number/#_14-剑指-offer-16-数值的整数次方)
+### 14. [剑指 Offer 10- I. 斐波那契数列](/leetcode/number/#_14-剑指-offer-10-i-斐波那契数列)
 
-### 15. [剑指 Offer 17. 打印从 1 到最大的 n 位数](/leetcode/number/#_15-剑指-offer-17-打印从-1-到最大的-n-位数)
+### 15. [剑指 Offer 16. 数值的整数次方](/leetcode/number/#_15-剑指-offer-16-数值的整数次方)
 
-### 16. [剑指 Offer 49. 丑数](/leetcode/number/#_16-剑指-offer-49-丑数)
+### 16. [剑指 Offer 17. 打印从 1 到最大的 n 位数](/leetcode/number/#_16-剑指-offer-17-打印从-1-到最大的-n-位数)
 
-### 17. [剑指 Offer 64. 求 1+2+…+n](/leetcode/number/#_17-剑指-offer-64-求-1-2-n)
+### 17. [剑指 Offer 49. 丑数](/leetcode/number/#_17-剑指-offer-49-丑数)
 
-### 18. [射击运动员10枪90环的所有可能](/leetcode/number/#_18-射击运动员10枪90环的所有可能)
+### 18. [剑指 Offer 64. 求 1+2+…+n](/leetcode/number/#_18-剑指-offer-64-求-1-2-n)
 
-### 19. [整数反转](/leetcode/number/#_19-整数反转)
+### 19. [射击运动员10枪90环的所有可能](/leetcode/number/#_19-射击运动员10枪90环的所有可能)
 
-### 20. [是否是质数](/leetcode/number/#_20-是否是质数)
+### 20. [整数反转](/leetcode/number/#_20-整数反转)
 
-### 21. [爬楼梯问题](/leetcode/number/#_21-爬楼梯问题)
+### 21. [是否是质数](/leetcode/number/#_21-是否是质数)
+
+### 22. [爬楼梯问题](/leetcode/number/#_22-爬楼梯问题)
 
 ## [剑指 Offer 专题](/leetcode/Offer/)
 
