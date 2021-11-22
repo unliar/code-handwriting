@@ -180,55 +180,57 @@
 
 ## [前端常见八股题](/leetcode/js/)
 
-### 1. [LazyMan](/leetcode/js/#_1-lazyman)
+### 1. [384. 打乱数组](/leetcode/js/#_1-384-打乱数组)
 
-### 2. [a==1&&a==2&&a==3](/leetcode/js/#_2-a-1-a-2-a-3)
+### 2. [LazyMan](/leetcode/js/#_2-lazyman)
 
-### 3. [add(1)(2)(3)](/leetcode/js/#_3-add-1-2-3)
+### 3. [a==1&&a==2&&a==3](/leetcode/js/#_3-a-1-a-2-a-3)
 
-### 4. [async await 原理实现](/leetcode/js/#_4-async-await-原理实现)
+### 4. [add(1)(2)(3)](/leetcode/js/#_4-add-1-2-3)
 
-### 5. [bind-call-apply](/leetcode/js/#_5-bind-call-apply)
+### 5. [async await 原理实现](/leetcode/js/#_5-async-await-原理实现)
 
-### 6. [lru](/leetcode/js/#_6-lru)
+### 6. [bind-call-apply](/leetcode/js/#_6-bind-call-apply)
 
-### 7. [ts类型体操的实现](/leetcode/js/#_7-ts类型体操的实现)
+### 7. [lru](/leetcode/js/#_7-lru)
 
-### 8. [原型链输出](/leetcode/js/#_8-原型链输出)
+### 8. [ts类型体操的实现](/leetcode/js/#_8-ts类型体操的实现)
 
-### 9. [实现 instanceOf](/leetcode/js/#_9-实现-instanceof)
+### 9. [原型链输出](/leetcode/js/#_9-原型链输出)
 
-### 10. [实现 koa compose](/leetcode/js/#_10-实现-koa-compose)
+### 10. [实现 instanceOf](/leetcode/js/#_10-实现-instanceof)
 
-### 11. [实现 new 和 create](/leetcode/js/#_11-实现-new-和-create)
+### 11. [实现 koa compose](/leetcode/js/#_11-实现-koa-compose)
 
-### 12. [实现 promise 的并发控制](/leetcode/js/#_12-实现-promise-的并发控制)
+### 12. [实现 new 和 create](/leetcode/js/#_12-实现-new-和-create)
 
-### 13. [实现 url query parse](/leetcode/js/#_13-实现-url-query-parse)
+### 13. [实现 promise 的并发控制](/leetcode/js/#_13-实现-promise-的并发控制)
 
-### 14. [实现一个简单的express-middleware](/leetcode/js/#_14-实现一个简单的express-middleware)
+### 14. [实现 url query parse](/leetcode/js/#_14-实现-url-query-parse)
 
-### 15. [手写 Promise.all](/leetcode/js/#_15-手写-promise-all)
+### 15. [实现一个简单的express-middleware](/leetcode/js/#_15-实现一个简单的express-middleware)
 
-### 16. [手写 Promise](/leetcode/js/#_16-手写-promise)
+### 16. [手写 Promise.all](/leetcode/js/#_16-手写-promise-all)
 
-### 17. [手写发布订阅模式](/leetcode/js/#_17-手写发布订阅模式)
+### 17. [手写 Promise](/leetcode/js/#_17-手写-promise)
 
-### 18. [数组对象深度遍历获取 id](/leetcode/js/#_18-数组对象深度遍历获取-id)
+### 18. [手写发布订阅模式](/leetcode/js/#_18-手写发布订阅模式)
 
-### 19. [数组转树结构](/leetcode/js/#_19-数组转树结构)
+### 19. [数组对象深度遍历获取 id](/leetcode/js/#_19-数组对象深度遍历获取-id)
 
-### 20. [斐波那契数列](/leetcode/js/#_20-斐波那契数列)
+### 20. [数组转树结构](/leetcode/js/#_20-数组转树结构)
 
-### 21. [树组件删除](/leetcode/js/#_21-树组件删除)
+### 21. [斐波那契数列](/leetcode/js/#_21-斐波那契数列)
 
-### 22. [深拷贝](/leetcode/js/#_22-深拷贝)
+### 22. [树组件删除](/leetcode/js/#_22-树组件删除)
 
-### 23. [编写 webpack plugin filesize-plugin](/leetcode/js/#_23-编写-webpack-plugin-filesize-plugin)
+### 23. [深拷贝](/leetcode/js/#_23-深拷贝)
 
-### 24. [错误捕获输出题](/leetcode/js/#_24-错误捕获输出题)
+### 24. [编写 webpack plugin filesize-plugin](/leetcode/js/#_24-编写-webpack-plugin-filesize-plugin)
 
-### 25. [防抖节流](/leetcode/js/#_25-防抖节流)
+### 25. [错误捕获输出题](/leetcode/js/#_25-错误捕获输出题)
+
+### 26. [防抖节流](/leetcode/js/#_26-防抖节流)
 
 ## [链表](/leetcode/linked-list/)
 
