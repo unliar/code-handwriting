@@ -4,7 +4,7 @@
  * @link https://leetcode-cn.com/problems/relative-ranks/
  * @desc 给你一个长度为 n 的整数数组 score ，其中 score[i] 是第 i 位运动员在比赛中的得分。所有得分都 互不相同 。
  * 运动员将根据得分 决定名次 ，其中名次第 1 的运动员得分最高，名次第 2 的运动员得分第 2 高，依此类推。运动员的名次决定了他们的获奖情况：
- *
+ * @author 远浅
  */
 var findRelativeRanks = function(score) {
   const res = [];

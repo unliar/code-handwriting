@@ -140,33 +140,39 @@
 
 ### 1. [104. 二叉树的最大深度](/leetcode/binary-tree/#_1-104-二叉树的最大深度)
 
-### 2. [230. 二叉搜索树中第K小的元素](/leetcode/binary-tree/#_2-230-二叉搜索树中第k小的元素)
+### 2. [110. 平衡二叉树](/leetcode/binary-tree/#_2-110-平衡二叉树)
 
-### 3. [437. 路径总和 III](/leetcode/binary-tree/#_3-437-路径总和-iii)
+### 3. [111. 二叉树的最小深度](/leetcode/binary-tree/#_3-111-二叉树的最小深度)
 
-### 4. [559. N 叉树的最大深度](/leetcode/binary-tree/#_4-559-n-叉树的最大深度)
+### 4. [230. 二叉搜索树中第K小的元素](/leetcode/binary-tree/#_4-230-二叉搜索树中第k小的元素)
 
-### 5. [563. 二叉树的坡度](/leetcode/binary-tree/#_5-563-二叉树的坡度)
+### 5. [437. 路径总和 III](/leetcode/binary-tree/#_5-437-路径总和-iii)
 
-### 6. [671. 二叉树中第二小的节点](/leetcode/binary-tree/#_6-671-二叉树中第二小的节点)
+### 6. [559. N 叉树的最大深度](/leetcode/binary-tree/#_6-559-n-叉树的最大深度)
 
-### 7. [700. 二叉搜索树中的搜索](/leetcode/binary-tree/#_7-700-二叉搜索树中的搜索)
+### 7. [563. 二叉树的坡度](/leetcode/binary-tree/#_7-563-二叉树的坡度)
 
-### 8. [98. 验证二叉搜索树](/leetcode/binary-tree/#_8-98-验证二叉搜索树)
+### 8. [671. 二叉树中第二小的节点](/leetcode/binary-tree/#_8-671-二叉树中第二小的节点)
 
-### 9. [二叉搜索树查找](/leetcode/binary-tree/#_9-二叉搜索树查找)
+### 9. [700. 二叉搜索树中的搜索](/leetcode/binary-tree/#_9-700-二叉搜索树中的搜索)
 
-### 10. [二叉树的层序遍历](/leetcode/binary-tree/#_10-二叉树的层序遍历)
+### 10. [94. 二叉树的中序遍历](/leetcode/binary-tree/#_10-94-二叉树的中序遍历)
 
-### 11. [二叉树的遍历](/leetcode/binary-tree/#_11-二叉树的遍历)
+### 11. [98. 验证二叉搜索树](/leetcode/binary-tree/#_11-98-验证二叉搜索树)
 
-### 12. [剑指 Offer 27. 二叉树的镜像](/leetcode/binary-tree/#_12-剑指-offer-27-二叉树的镜像)
+### 12. [二叉搜索树查找](/leetcode/binary-tree/#_12-二叉搜索树查找)
 
-### 13. [剑指 Offer 28. 对称的二叉树](/leetcode/binary-tree/#_13-剑指-offer-28-对称的二叉树)
+### 13. [二叉树的层序遍历](/leetcode/binary-tree/#_13-二叉树的层序遍历)
 
-### 14. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/binary-tree/#_14-剑指-offer-54-二叉搜索树的第-k-大节点)
+### 14. [二叉树的遍历](/leetcode/binary-tree/#_14-二叉树的遍历)
 
-### 15. [剑指 Offer 55 - II. 平衡二叉树](/leetcode/binary-tree/#_15-剑指-offer-55-ii-平衡二叉树)
+### 15. [剑指 Offer 27. 二叉树的镜像](/leetcode/binary-tree/#_15-剑指-offer-27-二叉树的镜像)
+
+### 16. [剑指 Offer 28. 对称的二叉树](/leetcode/binary-tree/#_16-剑指-offer-28-对称的二叉树)
+
+### 17. [剑指 Offer 54. 二叉搜索树的第 k 大节点](/leetcode/binary-tree/#_17-剑指-offer-54-二叉搜索树的第-k-大节点)
+
+### 18. [剑指 Offer 55 - II. 平衡二叉树](/leetcode/binary-tree/#_18-剑指-offer-55-ii-平衡二叉树)
 
 ## [动态规划](/leetcode/dp/)
 
@@ -294,29 +300,31 @@
 
 ### 11. [476. 数字的补数](/leetcode/number/#_11-476-数字的补数)
 
-### 12. [x 的 n 次方](/leetcode/number/#_12-x-的-n-次方)
+### 12. [67. 二进制求和](/leetcode/number/#_12-67-二进制求和)
 
-### 13. [x 的平方根](/leetcode/number/#_13-x-的平方根)
+### 13. [x 的 n 次方](/leetcode/number/#_13-x-的-n-次方)
 
-### 14. [从 n 个数中同概率的选出 m 个数字](/leetcode/number/#_14-从-n-个数中同概率的选出-m-个数字)
+### 14. [x 的平方根](/leetcode/number/#_14-x-的平方根)
 
-### 15. [剑指 Offer 10- I. 斐波那契数列](/leetcode/number/#_15-剑指-offer-10-i-斐波那契数列)
+### 15. [从 n 个数中同概率的选出 m 个数字](/leetcode/number/#_15-从-n-个数中同概率的选出-m-个数字)
 
-### 16. [剑指 Offer 16. 数值的整数次方](/leetcode/number/#_16-剑指-offer-16-数值的整数次方)
+### 16. [剑指 Offer 10- I. 斐波那契数列](/leetcode/number/#_16-剑指-offer-10-i-斐波那契数列)
 
-### 17. [剑指 Offer 17. 打印从 1 到最大的 n 位数](/leetcode/number/#_17-剑指-offer-17-打印从-1-到最大的-n-位数)
+### 17. [剑指 Offer 16. 数值的整数次方](/leetcode/number/#_17-剑指-offer-16-数值的整数次方)
 
-### 18. [剑指 Offer 49. 丑数](/leetcode/number/#_18-剑指-offer-49-丑数)
+### 18. [剑指 Offer 17. 打印从 1 到最大的 n 位数](/leetcode/number/#_18-剑指-offer-17-打印从-1-到最大的-n-位数)
 
-### 19. [剑指 Offer 64. 求 1+2+…+n](/leetcode/number/#_19-剑指-offer-64-求-1-2-n)
+### 19. [剑指 Offer 49. 丑数](/leetcode/number/#_19-剑指-offer-49-丑数)
 
-### 20. [射击运动员10枪90环的所有可能](/leetcode/number/#_20-射击运动员10枪90环的所有可能)
+### 20. [剑指 Offer 64. 求 1+2+…+n](/leetcode/number/#_20-剑指-offer-64-求-1-2-n)
 
-### 21. [整数反转](/leetcode/number/#_21-整数反转)
+### 21. [射击运动员10枪90环的所有可能](/leetcode/number/#_21-射击运动员10枪90环的所有可能)
 
-### 22. [是否是质数](/leetcode/number/#_22-是否是质数)
+### 22. [整数反转](/leetcode/number/#_22-整数反转)
 
-### 23. [爬楼梯问题](/leetcode/number/#_23-爬楼梯问题)
+### 23. [是否是质数](/leetcode/number/#_23-是否是质数)
+
+### 24. [爬楼梯问题](/leetcode/number/#_24-爬楼梯问题)
 
 ## [剑指 Offer 专题](/leetcode/Offer/)
 
@@ -386,53 +394,55 @@
 
 ### 1. [1221. 分割平衡字符串](/leetcode/string/#_1-1221-分割平衡字符串)
 
-### 2. [165. 比较版本号](/leetcode/string/#_2-165-比较版本号)
+### 2. [1446. 连续字符](/leetcode/string/#_2-1446-连续字符)
 
-### 3. [187. 重复的DNA序列](/leetcode/string/#_3-187-重复的dna序列)
+### 3. [165. 比较版本号](/leetcode/string/#_3-165-比较版本号)
 
-### 4. [20. 有效的括号](/leetcode/string/#_4-20-有效的括号)
+### 4. [187. 重复的DNA序列](/leetcode/string/#_4-187-重复的dna序列)
 
-### 5. [242. 有效的字母异位词](/leetcode/string/#_5-242-有效的字母异位词)
+### 5. [20. 有效的括号](/leetcode/string/#_5-20-有效的括号)
 
-### 6. [28. 实现 strStr()](/leetcode/string/#_6-28-实现-strstr)
+### 6. [242. 有效的字母异位词](/leetcode/string/#_6-242-有效的字母异位词)
 
-### 7. [3. 无重复字符的最长子串](/leetcode/string/#_7-3-无重复字符的最长子串)
+### 7. [28. 实现 strStr()](/leetcode/string/#_7-28-实现-strstr)
 
-### 8. [38. 外观数列](/leetcode/string/#_8-38-外观数列)
+### 8. [3. 无重复字符的最长子串](/leetcode/string/#_8-3-无重复字符的最长子串)
 
-### 9. [434.字符串中的单词数](/leetcode/string/#_9-434-字符串中的单词数)
+### 9. [38. 外观数列](/leetcode/string/#_9-38-外观数列)
 
-### 10. [468. 验证IP地址](/leetcode/string/#_10-468-验证ip地址)
+### 10. [434.字符串中的单词数](/leetcode/string/#_10-434-字符串中的单词数)
 
-### 11. [482. 密钥格式化](/leetcode/string/#_11-482-密钥格式化)
+### 11. [468. 验证IP地址](/leetcode/string/#_11-468-验证ip地址)
 
-### 12. [58. 最后一个单词的长度](/leetcode/string/#_12-58-最后一个单词的长度)
+### 12. [482. 密钥格式化](/leetcode/string/#_12-482-密钥格式化)
 
-### 13. [647. 回文子串](/leetcode/string/#_13-647-回文子串)
+### 13. [58. 最后一个单词的长度](/leetcode/string/#_13-58-最后一个单词的长度)
 
-### 14. [二进制数中 1 的个数](/leetcode/string/#_14-二进制数中-1-的个数)
+### 14. [647. 回文子串](/leetcode/string/#_14-647-回文子串)
 
-### 15. [出现次数最多的三个字符](/leetcode/string/#_15-出现次数最多的三个字符)
+### 15. [二进制数中 1 的个数](/leetcode/string/#_15-二进制数中-1-的个数)
 
-### 16. [判断是否是回文数](/leetcode/string/#_16-判断是否是回文数)
+### 16. [出现次数最多的三个字符](/leetcode/string/#_16-出现次数最多的三个字符)
 
-### 17. [剑指 Offer 05. 替换空格](/leetcode/string/#_17-剑指-offer-05-替换空格)
+### 17. [判断是否是回文数](/leetcode/string/#_17-判断是否是回文数)
 
-### 18. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_18-剑指-offer-15-二进制中-1-的个数)
+### 18. [剑指 Offer 05. 替换空格](/leetcode/string/#_18-剑指-offer-05-替换空格)
 
-### 19. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_19-剑指-offer-38-字符串的排列)
+### 19. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_19-剑指-offer-15-二进制中-1-的个数)
 
-### 20. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_20-剑指-offer-48-最长不含重复字符的子字符串)
+### 20. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_20-剑指-offer-38-字符串的排列)
 
-### 21. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_21-剑指-offer-50-第一个只出现一次的字符)
+### 21. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_21-剑指-offer-48-最长不含重复字符的子字符串)
 
-### 22. [剑指 Offer 58 - I. 翻转单词顺序](/leetcode/string/#_22-剑指-offer-58-i-翻转单词顺序)
+### 22. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_22-剑指-offer-50-第一个只出现一次的字符)
 
-### 23. [大数相加](/leetcode/string/#_23-大数相加)
+### 23. [剑指 Offer 58 - I. 翻转单词顺序](/leetcode/string/#_23-剑指-offer-58-i-翻转单词顺序)
 
-### 24. [字符串的全排列](/leetcode/string/#_24-字符串的全排列)
+### 24. [大数相加](/leetcode/string/#_24-大数相加)
 
-### 25. [最长回文子串](/leetcode/string/#_25-最长回文子串)
+### 25. [字符串的全排列](/leetcode/string/#_25-字符串的全排列)
+
+### 26. [最长回文子串](/leetcode/string/#_26-最长回文子串)
 
 ## [前缀树](/leetcode/trie/)
 
