@@ -8,9 +8,12 @@
  */
 var findRelativeRanks = function(score) {
   const res = [];
+  // 排序一下
   const x = [...score].sort((a, b) => b - a);
+  // 循环一下原数组
   for (let index = 0; index < score.length; index++) {
     const v = score[index];
+    // 查找一下值在的位置索引
     const t = x.findIndex((i) => i == v) + 1;
     switch (t) {
       case 1:
