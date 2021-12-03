@@ -21,5 +21,7 @@ var largestSumAfterKNegations = function(nums, k) {
   }
   // 因为可以重复取反
   if (m % 2 == 0) return sum;
+  // 如果是最小的数是正数 取反后则是负数 但是之前用正数+过一次了 所以需要减去两次绝对值
+  // 如果最小的数是负数 取反后则是正数 但是之前用负数+过一次了 所以需要加上两次绝对值
   return sum - 2 * Math.abs(last);
 };
