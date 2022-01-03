@@ -1,101 +1,105 @@
 # 数字
 
-## 1. 1344. 时钟指针的夹角
+## 1. 1185. 一周中的第几天
+
+<<< @/src/code/number/1185. 一周中的第几天.js
+
+## 2. 1344. 时钟指针的夹角
 
 <<< @/src/code/number/1344. 时钟指针的夹角.js
 
-## 2. 168. Excel表列名称-数字转成A-Z
+## 3. 168. Excel表列名称-数字转成A-Z
 
 <<< @/src/code/number/168. Excel表列名称-数字转成A-Z.js
 
-## 3. 171. Excel表列序号-字符转数字
+## 4. 171. Excel表列序号-字符转数字
 
 <<< @/src/code/number/171. Excel表列序号-字符转数字.js
 
-## 4. 202. 快乐数
+## 5. 202. 快乐数
 
 <<< @/src/code/number/202. 快乐数.js
 
-## 5. 29. 两数相除
+## 6. 29. 两数相除
 
 <<< @/src/code/number/29. 两数相除.js
 
-## 6. 326. 3的幂
+## 7. 326. 3的幂
 
 <<< @/src/code/number/326. 3的幂.js
 
-## 7. 397. 整数替换
+## 8. 397. 整数替换
 
 <<< @/src/code/number/397. 整数替换.js
 
-## 8. 405. 数字转换为十六进制数
+## 9. 405. 数字转换为十六进制数
 
 <<< @/src/code/number/405. 数字转换为十六进制数.js
 
-## 9. 412. Fizz Buzz
+## 10. 412. Fizz Buzz
 
 <<< @/src/code/number/412. Fizz Buzz.js
 
-## 10. 458. 可怜的小猪
+## 11. 458. 可怜的小猪
 
 <<< @/src/code/number/458. 可怜的小猪.js
 
-## 11. 476. 数字的补数
+## 12. 476. 数字的补数
 
 <<< @/src/code/number/476. 数字的补数.js
 
-## 12. 67. 二进制求和
+## 13. 67. 二进制求和
 
 <<< @/src/code/number/67. 二进制求和.js
 
-## 13. x 的 n 次方
+## 14. x 的 n 次方
 
 <<< @/src/code/number/x 的 n 次方.js
 
-## 14. x 的平方根
+## 15. x 的平方根
 
 <<< @/src/code/number/x 的平方根.js
 
-## 15. 从 n 个数中同概率的选出 m 个数字
+## 16. 从 n 个数中同概率的选出 m 个数字
 
 <<< @/src/code/number/从 n 个数中同概率的选出 m 个数字.js
 
-## 16. 剑指 Offer 10- I. 斐波那契数列
+## 17. 剑指 Offer 10- I. 斐波那契数列
 
 <<< @/src/code/number/剑指 Offer 10- I. 斐波那契数列.js
 
-## 17. 剑指 Offer 16. 数值的整数次方
+## 18. 剑指 Offer 16. 数值的整数次方
 
 <<< @/src/code/number/剑指 Offer 16. 数值的整数次方.js
 
-## 18. 剑指 Offer 17. 打印从 1 到最大的 n 位数
+## 19. 剑指 Offer 17. 打印从 1 到最大的 n 位数
 
 <<< @/src/code/number/剑指 Offer 17. 打印从 1 到最大的 n 位数.js
 
-## 19. 剑指 Offer 49. 丑数
+## 20. 剑指 Offer 49. 丑数
 
 <<< @/src/code/number/剑指 Offer 49. 丑数.js
 
-## 20. 剑指 Offer 64. 求 1+2+…+n
+## 21. 剑指 Offer 64. 求 1+2+…+n
 
 <<< @/src/code/number/剑指 Offer 64. 求 1+2+…+n.js
 
-## 21. 射击运动员10枪90环的所有可能
+## 22. 射击运动员10枪90环的所有可能
 
 <<< @/src/code/number/射击运动员10枪90环的所有可能.js
 
-## 22. 快速幂算法
+## 23. 快速幂算法
 
 <<< @/src/code/number/快速幂算法.js
 
-## 23. 整数反转
+## 24. 整数反转
 
 <<< @/src/code/number/整数反转.js
 
-## 24. 是否是质数
+## 25. 是否是质数
 
 <<< @/src/code/number/是否是质数.js
 
-## 25. 爬楼梯问题
+## 26. 爬楼梯问题
 
 <<< @/src/code/number/爬楼梯问题.js
