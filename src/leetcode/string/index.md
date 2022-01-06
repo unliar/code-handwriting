@@ -68,50 +68,54 @@
 
 <<< @/src/code/string/647. 回文子串.js
 
-## 18. 二进制数中 1 的个数
+## 18. 71. 简化路径
+
+<<< @/src/code/string/71. 简化路径.js
+
+## 19. 二进制数中 1 的个数
 
 <<< @/src/code/string/二进制数中 1 的个数.js
 
-## 19. 出现次数最多的三个字符
+## 20. 出现次数最多的三个字符
 
 <<< @/src/code/string/出现次数最多的三个字符.js
 
-## 20. 判断是否是回文数
+## 21. 判断是否是回文数
 
 <<< @/src/code/string/判断是否是回文数.js
 
-## 21. 剑指 Offer 05. 替换空格
+## 22. 剑指 Offer 05. 替换空格
 
 <<< @/src/code/string/剑指 Offer 05. 替换空格.js
 
-## 22. 剑指 Offer 15. 二进制中 1 的个数
+## 23. 剑指 Offer 15. 二进制中 1 的个数
 
 <<< @/src/code/string/剑指 Offer 15. 二进制中 1 的个数.js
 
-## 23. 剑指 Offer 38. 字符串的排列
+## 24. 剑指 Offer 38. 字符串的排列
 
 <<< @/src/code/string/剑指 Offer 38. 字符串的排列.js
 
-## 24. 剑指 Offer 48. 最长不含重复字符的子字符串
+## 25. 剑指 Offer 48. 最长不含重复字符的子字符串
 
 <<< @/src/code/string/剑指 Offer 48. 最长不含重复字符的子字符串.js
 
-## 25. 剑指 Offer 50. 第一个只出现一次的字符
+## 26. 剑指 Offer 50. 第一个只出现一次的字符
 
 <<< @/src/code/string/剑指 Offer 50. 第一个只出现一次的字符.js
 
-## 26. 剑指 Offer 58 - I. 翻转单词顺序
+## 27. 剑指 Offer 58 - I. 翻转单词顺序
 
 <<< @/src/code/string/剑指 Offer 58 - I. 翻转单词顺序.js
 
-## 27. 大数相加
+## 28. 大数相加
 
 <<< @/src/code/string/大数相加.js
 
-## 28. 字符串的全排列
+## 29. 字符串的全排列
 
 <<< @/src/code/string/字符串的全排列.js
 
-## 29. 最长回文子串
+## 30. 最长回文子串
 
 <<< @/src/code/string/最长回文子串.js
