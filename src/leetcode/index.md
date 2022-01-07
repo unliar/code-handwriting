@@ -404,59 +404,61 @@
 
 ### 3. [1576. 替换所有的问号](/leetcode/string/#_3-1576-替换所有的问号)
 
-### 4. [165. 比较版本号](/leetcode/string/#_4-165-比较版本号)
+### 4. [1614. 括号的最大嵌套深度](/leetcode/string/#_4-1614-括号的最大嵌套深度)
 
-### 5. [1816. 截断句子](/leetcode/string/#_5-1816-截断句子)
+### 5. [165. 比较版本号](/leetcode/string/#_5-165-比较版本号)
 
-### 6. [187. 重复的DNA序列](/leetcode/string/#_6-187-重复的dna序列)
+### 6. [1816. 截断句子](/leetcode/string/#_6-1816-截断句子)
 
-### 7. [20. 有效的括号](/leetcode/string/#_7-20-有效的括号)
+### 7. [187. 重复的DNA序列](/leetcode/string/#_7-187-重复的dna序列)
 
-### 8. [242. 有效的字母异位词](/leetcode/string/#_8-242-有效的字母异位词)
+### 8. [20. 有效的括号](/leetcode/string/#_8-20-有效的括号)
 
-### 9. [28. 实现 strStr()](/leetcode/string/#_9-28-实现-strstr)
+### 9. [242. 有效的字母异位词](/leetcode/string/#_9-242-有效的字母异位词)
 
-### 10. [3. 无重复字符的最长子串](/leetcode/string/#_10-3-无重复字符的最长子串)
+### 10. [28. 实现 strStr()](/leetcode/string/#_10-28-实现-strstr)
 
-### 11. [38. 外观数列](/leetcode/string/#_11-38-外观数列)
+### 11. [3. 无重复字符的最长子串](/leetcode/string/#_11-3-无重复字符的最长子串)
 
-### 12. [383. 赎金信](/leetcode/string/#_12-383-赎金信)
+### 12. [38. 外观数列](/leetcode/string/#_12-38-外观数列)
 
-### 13. [434.字符串中的单词数](/leetcode/string/#_13-434-字符串中的单词数)
+### 13. [383. 赎金信](/leetcode/string/#_13-383-赎金信)
 
-### 14. [468. 验证IP地址](/leetcode/string/#_14-468-验证ip地址)
+### 14. [434.字符串中的单词数](/leetcode/string/#_14-434-字符串中的单词数)
 
-### 15. [482. 密钥格式化](/leetcode/string/#_15-482-密钥格式化)
+### 15. [468. 验证IP地址](/leetcode/string/#_15-468-验证ip地址)
 
-### 16. [58. 最后一个单词的长度](/leetcode/string/#_16-58-最后一个单词的长度)
+### 16. [482. 密钥格式化](/leetcode/string/#_16-482-密钥格式化)
 
-### 17. [647. 回文子串](/leetcode/string/#_17-647-回文子串)
+### 17. [58. 最后一个单词的长度](/leetcode/string/#_17-58-最后一个单词的长度)
 
-### 18. [71. 简化路径](/leetcode/string/#_18-71-简化路径)
+### 18. [647. 回文子串](/leetcode/string/#_18-647-回文子串)
 
-### 19. [二进制数中 1 的个数](/leetcode/string/#_19-二进制数中-1-的个数)
+### 19. [71. 简化路径](/leetcode/string/#_19-71-简化路径)
 
-### 20. [出现次数最多的三个字符](/leetcode/string/#_20-出现次数最多的三个字符)
+### 20. [二进制数中 1 的个数](/leetcode/string/#_20-二进制数中-1-的个数)
 
-### 21. [判断是否是回文数](/leetcode/string/#_21-判断是否是回文数)
+### 21. [出现次数最多的三个字符](/leetcode/string/#_21-出现次数最多的三个字符)
 
-### 22. [剑指 Offer 05. 替换空格](/leetcode/string/#_22-剑指-offer-05-替换空格)
+### 22. [判断是否是回文数](/leetcode/string/#_22-判断是否是回文数)
 
-### 23. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_23-剑指-offer-15-二进制中-1-的个数)
+### 23. [剑指 Offer 05. 替换空格](/leetcode/string/#_23-剑指-offer-05-替换空格)
 
-### 24. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_24-剑指-offer-38-字符串的排列)
+### 24. [剑指 Offer 15. 二进制中 1 的个数](/leetcode/string/#_24-剑指-offer-15-二进制中-1-的个数)
 
-### 25. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_25-剑指-offer-48-最长不含重复字符的子字符串)
+### 25. [剑指 Offer 38. 字符串的排列](/leetcode/string/#_25-剑指-offer-38-字符串的排列)
 
-### 26. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_26-剑指-offer-50-第一个只出现一次的字符)
+### 26. [剑指 Offer 48. 最长不含重复字符的子字符串](/leetcode/string/#_26-剑指-offer-48-最长不含重复字符的子字符串)
 
-### 27. [剑指 Offer 58 - I. 翻转单词顺序](/leetcode/string/#_27-剑指-offer-58-i-翻转单词顺序)
+### 27. [剑指 Offer 50. 第一个只出现一次的字符](/leetcode/string/#_27-剑指-offer-50-第一个只出现一次的字符)
 
-### 28. [大数相加](/leetcode/string/#_28-大数相加)
+### 28. [剑指 Offer 58 - I. 翻转单词顺序](/leetcode/string/#_28-剑指-offer-58-i-翻转单词顺序)
 
-### 29. [字符串的全排列](/leetcode/string/#_29-字符串的全排列)
+### 29. [大数相加](/leetcode/string/#_29-大数相加)
 
-### 30. [最长回文子串](/leetcode/string/#_30-最长回文子串)
+### 30. [字符串的全排列](/leetcode/string/#_30-字符串的全排列)
+
+### 31. [最长回文子串](/leetcode/string/#_31-最长回文子串)
 
 ## [前缀树](/leetcode/trie/)
 
