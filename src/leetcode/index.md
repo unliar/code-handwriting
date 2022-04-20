@@ -260,25 +260,27 @@
 
 ### 3. [19. 删除链表的倒数第 N 个结点](/leetcode/linked-list/#_3-19-删除链表的倒数第-n-个结点)
 
-### 4. [237. 删除链表中的节点](/leetcode/linked-list/#_4-237-删除链表中的节点)
+### 4. [234. 回文链表](/leetcode/linked-list/#_4-234-回文链表)
 
-### 5. [两个链表相加组成一个新链表](/leetcode/linked-list/#_5-两个链表相加组成一个新链表)
+### 5. [237. 删除链表中的节点](/leetcode/linked-list/#_5-237-删除链表中的节点)
 
-### 6. [删除排序链表中的重复元素](/leetcode/linked-list/#_6-删除排序链表中的重复元素)
+### 6. [两个链表相加组成一个新链表](/leetcode/linked-list/#_6-两个链表相加组成一个新链表)
 
-### 7. [剑指 Offer 06. 从尾到头打印链表](/leetcode/linked-list/#_7-剑指-offer-06-从尾到头打印链表)
+### 7. [删除排序链表中的重复元素](/leetcode/linked-list/#_7-删除排序链表中的重复元素)
 
-### 8. [剑指 Offer 18. 删除链表的节点](/leetcode/linked-list/#_8-剑指-offer-18-删除链表的节点)
+### 8. [剑指 Offer 06. 从尾到头打印链表](/leetcode/linked-list/#_8-剑指-offer-06-从尾到头打印链表)
 
-### 9. [剑指 Offer 22. 链表中倒数第 k 个节点](/leetcode/linked-list/#_9-剑指-offer-22-链表中倒数第-k-个节点)
+### 9. [剑指 Offer 18. 删除链表的节点](/leetcode/linked-list/#_9-剑指-offer-18-删除链表的节点)
 
-### 10. [剑指 Offer 24. 反转链表](/leetcode/linked-list/#_10-剑指-offer-24-反转链表)
+### 10. [剑指 Offer 22. 链表中倒数第 k 个节点](/leetcode/linked-list/#_10-剑指-offer-22-链表中倒数第-k-个节点)
 
-### 11. [剑指 Offer 25. 合并两个排序的链表](/leetcode/linked-list/#_11-剑指-offer-25-合并两个排序的链表)
+### 11. [剑指 Offer 24. 反转链表](/leetcode/linked-list/#_11-剑指-offer-24-反转链表)
 
-### 12. [剑指 Offer 52. 两个链表的第一个公共节点](/leetcode/linked-list/#_12-剑指-offer-52-两个链表的第一个公共节点)
+### 12. [剑指 Offer 25. 合并两个排序的链表](/leetcode/linked-list/#_12-剑指-offer-25-合并两个排序的链表)
 
-### 13. [链表旋转 k 次](/leetcode/linked-list/#_13-链表旋转-k-次)
+### 13. [剑指 Offer 52. 两个链表的第一个公共节点](/leetcode/linked-list/#_13-剑指-offer-52-两个链表的第一个公共节点)
+
+### 14. [链表旋转 k 次](/leetcode/linked-list/#_14-链表旋转-k-次)
 
 ## [数字](/leetcode/number/)
 
