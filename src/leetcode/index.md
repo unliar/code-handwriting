@@ -292,47 +292,49 @@
 
 ### 5. [202. 快乐数](/leetcode/number/#_5-202-快乐数)
 
-### 6. [29. 两数相除](/leetcode/number/#_6-29-两数相除)
+### 6. [231. 2 的幂](/leetcode/number/#_6-231-2-的幂)
 
-### 7. [326. 3的幂](/leetcode/number/#_7-326-3的幂)
+### 7. [29. 两数相除](/leetcode/number/#_7-29-两数相除)
 
-### 8. [397. 整数替换](/leetcode/number/#_8-397-整数替换)
+### 8. [326. 3的幂](/leetcode/number/#_8-326-3的幂)
 
-### 9. [405. 数字转换为十六进制数](/leetcode/number/#_9-405-数字转换为十六进制数)
+### 9. [397. 整数替换](/leetcode/number/#_9-397-整数替换)
 
-### 10. [412. Fizz Buzz](/leetcode/number/#_10-412-fizz-buzz)
+### 10. [405. 数字转换为十六进制数](/leetcode/number/#_10-405-数字转换为十六进制数)
 
-### 11. [458. 可怜的小猪](/leetcode/number/#_11-458-可怜的小猪)
+### 11. [412. Fizz Buzz](/leetcode/number/#_11-412-fizz-buzz)
 
-### 12. [476. 数字的补数](/leetcode/number/#_12-476-数字的补数)
+### 12. [458. 可怜的小猪](/leetcode/number/#_12-458-可怜的小猪)
 
-### 13. [67. 二进制求和](/leetcode/number/#_13-67-二进制求和)
+### 13. [476. 数字的补数](/leetcode/number/#_13-476-数字的补数)
 
-### 14. [x 的 n 次方](/leetcode/number/#_14-x-的-n-次方)
+### 14. [67. 二进制求和](/leetcode/number/#_14-67-二进制求和)
 
-### 15. [x 的平方根](/leetcode/number/#_15-x-的平方根)
+### 15. [x 的 n 次方](/leetcode/number/#_15-x-的-n-次方)
 
-### 16. [从 n 个数中同概率的选出 m 个数字](/leetcode/number/#_16-从-n-个数中同概率的选出-m-个数字)
+### 16. [x 的平方根](/leetcode/number/#_16-x-的平方根)
 
-### 17. [剑指 Offer 10- I. 斐波那契数列](/leetcode/number/#_17-剑指-offer-10-i-斐波那契数列)
+### 17. [从 n 个数中同概率的选出 m 个数字](/leetcode/number/#_17-从-n-个数中同概率的选出-m-个数字)
 
-### 18. [剑指 Offer 16. 数值的整数次方](/leetcode/number/#_18-剑指-offer-16-数值的整数次方)
+### 18. [剑指 Offer 10- I. 斐波那契数列](/leetcode/number/#_18-剑指-offer-10-i-斐波那契数列)
 
-### 19. [剑指 Offer 17. 打印从 1 到最大的 n 位数](/leetcode/number/#_19-剑指-offer-17-打印从-1-到最大的-n-位数)
+### 19. [剑指 Offer 16. 数值的整数次方](/leetcode/number/#_19-剑指-offer-16-数值的整数次方)
 
-### 20. [剑指 Offer 49. 丑数](/leetcode/number/#_20-剑指-offer-49-丑数)
+### 20. [剑指 Offer 17. 打印从 1 到最大的 n 位数](/leetcode/number/#_20-剑指-offer-17-打印从-1-到最大的-n-位数)
 
-### 21. [剑指 Offer 64. 求 1+2+…+n](/leetcode/number/#_21-剑指-offer-64-求-1-2-n)
+### 21. [剑指 Offer 49. 丑数](/leetcode/number/#_21-剑指-offer-49-丑数)
 
-### 22. [射击运动员10枪90环的所有可能](/leetcode/number/#_22-射击运动员10枪90环的所有可能)
+### 22. [剑指 Offer 64. 求 1+2+…+n](/leetcode/number/#_22-剑指-offer-64-求-1-2-n)
 
-### 23. [快速幂算法](/leetcode/number/#_23-快速幂算法)
+### 23. [射击运动员10枪90环的所有可能](/leetcode/number/#_23-射击运动员10枪90环的所有可能)
 
-### 24. [整数反转](/leetcode/number/#_24-整数反转)
+### 24. [快速幂算法](/leetcode/number/#_24-快速幂算法)
 
-### 25. [是否是质数](/leetcode/number/#_25-是否是质数)
+### 25. [整数反转](/leetcode/number/#_25-整数反转)
 
-### 26. [爬楼梯问题](/leetcode/number/#_26-爬楼梯问题)
+### 26. [是否是质数](/leetcode/number/#_26-是否是质数)
+
+### 27. [爬楼梯问题](/leetcode/number/#_27-爬楼梯问题)
 
 ## [剑指 Offer 专题](/leetcode/Offer/)
 

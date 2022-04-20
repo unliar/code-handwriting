@@ -20,86 +20,90 @@
 
 <<< @/src/code/number/202. 快乐数.js
 
-## 6. 29. 两数相除
+## 6. 231. 2 的幂
+
+<<< @/src/code/number/231. 2 的幂.js
+
+## 7. 29. 两数相除
 
 <<< @/src/code/number/29. 两数相除.js
 
-## 7. 326. 3的幂
+## 8. 326. 3的幂
 
 <<< @/src/code/number/326. 3的幂.js
 
-## 8. 397. 整数替换
+## 9. 397. 整数替换
 
 <<< @/src/code/number/397. 整数替换.js
 
-## 9. 405. 数字转换为十六进制数
+## 10. 405. 数字转换为十六进制数
 
 <<< @/src/code/number/405. 数字转换为十六进制数.js
 
-## 10. 412. Fizz Buzz
+## 11. 412. Fizz Buzz
 
 <<< @/src/code/number/412. Fizz Buzz.js
 
-## 11. 458. 可怜的小猪
+## 12. 458. 可怜的小猪
 
 <<< @/src/code/number/458. 可怜的小猪.js
 
-## 12. 476. 数字的补数
+## 13. 476. 数字的补数
 
 <<< @/src/code/number/476. 数字的补数.js
 
-## 13. 67. 二进制求和
+## 14. 67. 二进制求和
 
 <<< @/src/code/number/67. 二进制求和.js
 
-## 14. x 的 n 次方
+## 15. x 的 n 次方
 
 <<< @/src/code/number/x 的 n 次方.js
 
-## 15. x 的平方根
+## 16. x 的平方根
 
 <<< @/src/code/number/x 的平方根.js
 
-## 16. 从 n 个数中同概率的选出 m 个数字
+## 17. 从 n 个数中同概率的选出 m 个数字
 
 <<< @/src/code/number/从 n 个数中同概率的选出 m 个数字.js
 
-## 17. 剑指 Offer 10- I. 斐波那契数列
+## 18. 剑指 Offer 10- I. 斐波那契数列
 
 <<< @/src/code/number/剑指 Offer 10- I. 斐波那契数列.js
 
-## 18. 剑指 Offer 16. 数值的整数次方
+## 19. 剑指 Offer 16. 数值的整数次方
 
 <<< @/src/code/number/剑指 Offer 16. 数值的整数次方.js
 
-## 19. 剑指 Offer 17. 打印从 1 到最大的 n 位数
+## 20. 剑指 Offer 17. 打印从 1 到最大的 n 位数
 
 <<< @/src/code/number/剑指 Offer 17. 打印从 1 到最大的 n 位数.js
 
-## 20. 剑指 Offer 49. 丑数
+## 21. 剑指 Offer 49. 丑数
 
 <<< @/src/code/number/剑指 Offer 49. 丑数.js
 
-## 21. 剑指 Offer 64. 求 1+2+…+n
+## 22. 剑指 Offer 64. 求 1+2+…+n
 
 <<< @/src/code/number/剑指 Offer 64. 求 1+2+…+n.js
 
-## 22. 射击运动员10枪90环的所有可能
+## 23. 射击运动员10枪90环的所有可能
 
 <<< @/src/code/number/射击运动员10枪90环的所有可能.js
 
-## 23. 快速幂算法
+## 24. 快速幂算法
 
 <<< @/src/code/number/快速幂算法.js
 
-## 24. 整数反转
+## 25. 整数反转
 
 <<< @/src/code/number/整数反转.js
 
-## 25. 是否是质数
+## 26. 是否是质数
 
 <<< @/src/code/number/是否是质数.js
 
-## 26. 爬楼梯问题
+## 27. 爬楼梯问题
 
 <<< @/src/code/number/爬楼梯问题.js
