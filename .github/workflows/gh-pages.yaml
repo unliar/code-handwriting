@@ -42,7 +42,7 @@ jobs:
           msg_type: text
           content: |
             text: |
-              🔨 构建状态 - From Github Action 
+              🐳 构建状态 - From Github Action 
               
               repository: https://github.com/${{ github.repository }}
 
