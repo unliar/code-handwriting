@@ -5,15 +5,15 @@
  * @difficulty easy
  * @desc 山羊拉丁文
  */
-var toGoatLatin = function(sentence) {
-  const arr = sentence.split(" ").map((str, index) => {
-    const f = str[0].toLocaleLowerCase();
-    const oarr = ["a", "e", "i", "o", "u"];
-    if (oarr.includes(f)) {
-      return str + "ma" + "a".repeat(index + 1);
-    } else {
+var toGoatLatin = (sentence) =>
+  sentence
+    .split(" ")
+    .map((str, index) => {
+      const f = str[0].toLocaleLowerCase();
+      const oarr = ["a", "e", "i", "o", "u"];
+      if (oarr.includes(f)) {
+        return str + "ma" + "a".repeat(index + 1);
+      }
       return str.slice(1) + str[0] + "ma" + "a".repeat(index + 1);
-    }
-  });
-  return arr.join(" ");
-};
+    })
+    .join(" ");
