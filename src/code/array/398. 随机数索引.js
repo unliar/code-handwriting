@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @link {https://leetcode-cn.com/problems/random-pick-index/}
  * @description 数组随机选择
+ * @author 远浅
  */
 var Solution = function(nums) {
   this.arr = nums;
