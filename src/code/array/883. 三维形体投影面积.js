@@ -2,6 +2,7 @@
  * @param {number[][]} grid
  * @return {number}
  * @link https://leetcode-cn.com/problems/projection-area-of-3d-shapes/
+ * @author 远浅
  */
 var projectionArea = function(grid) {
   const c = [];
